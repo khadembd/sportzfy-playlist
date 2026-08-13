@@ -1,6 +1,9 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-13T16:53:16.281526+06:00
+# Generated: 2026-08-13T17:39:47.637565+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 0
+# Total entries: 1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNWGRDgp/1000085356-removebg-preview.png" group-title="Cricket | Pakistan National Champions Cup vs Pakistan National Champions Cup",🔴 ✗ Server 1 | Pakistan National Champions Cup vs Pakistan National Champions Cup | LOW
+http://193.47.62.56/hls/KKJJJ.m3u8|referer=http://www.fawanews.sc/
