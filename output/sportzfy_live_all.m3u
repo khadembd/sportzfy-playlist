@@ -1,27 +1,15 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-15T03:16:40.168103+06:00
+# Generated: 2026-08-15T04:13:16.987019+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 16
+# Total entries: 12
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/34318.png" group-title="Football | Al-Ettifaq vs Al-Riyadh",🔴 ✗ Server 1 | Al-Ettifaq vs Al-Riyadh | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/11.png" group-title="Football | Coventry City vs AS Monaco",🔴 ✗ Server 1 | Coventry City vs AS Monaco | Server 1
 https://hls.live123.fans/live/4565097.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/34318.png" group-title="Football | Al-Ettifaq vs Al-Riyadh",🔴 ✓ Server 2 | Al-Ettifaq vs Al-Riyadh | Server 1
-https://hls.live123.fans/live/4599544.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/21895.png" group-title="Football | Al-Hilal vs Al Faisaly",🔴 ✓ Server 1 | Al-Hilal vs Al Faisaly | Server 1
-https://hls.live123.fans/live/4599545.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/21895.png" group-title="Football | Al-Hilal vs Al Faisaly",🔴 ✓ Server 2 | Al-Hilal vs Al Faisaly | Server 1
-https://hls.live123.fans/live/4611488.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/11.png" group-title="Football | Coventry City vs AS Monaco",🔴 ✓ Server 1 | Coventry City vs AS Monaco | Server 2
-https://stream.sports3.win/iptv/live/signal-4599544-36121.m3u8
-
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/11.png" group-title="Football | Coventry City vs AS Monaco",🔴 ✓ Server 2 | Coventry City vs AS Monaco | Server 1
-https://hls.live123.fans/live/4563504.m3u8
+https://hls.live123.fans/live/4599544.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2686.png" group-title="Football | Atalanta vs Athletic Club",🔴 ✓ Server 1 | Atalanta vs Athletic Club | Server 1
 https://hls.live123.fans/live/4553148.m3u8
@@ -29,14 +17,14 @@ https://hls.live123.fans/live/4553148.m3u8
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2686.png" group-title="Football | Atalanta vs Athletic Club",🔴 ✓ Server 2 | Atalanta vs Athletic Club | Server 2
 https://stream.sports3.win/iptv/live/signal-4553148-36141.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1673.png" group-title="Football | Stade Lavallois vs Nantes",🔴 ✓ Server 1 | Stade Lavallois vs Nantes | Server 2
-https://stream.sports3.win/iptv/live/signal-4613094-36079.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1673.png" group-title="Football | Stade Lavallois vs Nantes",🔴 ✓ Server 1 | Stade Lavallois vs Nantes | Server 1
+https://hls.live123.fans/live/4563504.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1673.png" group-title="Football | Stade Lavallois vs Nantes",🔴 ✓ Server 2 | Stade Lavallois vs Nantes | Server 1
 https://hls.live123.fans/live/4613094.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3.png" group-title="Football | Wolverhampton vs Blackburn Rovers",🔴 ✓ Server 1 | Wolverhampton vs Blackburn Rovers | Server 2
-https://stream.sports3.win/iptv/live/signal-4578167-36151.m3u8
+https://stream.sports3.win/iptv/live/signal-4563504-36149.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3.png" group-title="Football | Wolverhampton vs Blackburn Rovers",🔴 ✗ Server 2 | Wolverhampton vs Blackburn Rovers | BDIX
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
@@ -51,4 +39,4 @@ https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3001.png" group-title="Football | Sporting CP vs Vitória SC",🔴 ✓ Server 2 | Sporting CP vs Vitória SC | Server 2
-https://stream.sports3.win/iptv/live/signal-4611488-36148.m3u8
+https://stream.sports3.win/iptv/live/signal-4578167-36151.m3u8
