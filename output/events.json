@@ -103,6 +103,19 @@
     "_verified": [
       [
         {
+          "id": "5287",
+          "label": "Server 1",
+          "stream_type": "hls",
+          "stream_url": "https://hls.live123.fans/live/4611427.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 0
+        },
+        true,
+        "OK (master)"
+      ],
+      [
+        {
           "id": "3514",
           "label": "Server 1",
           "stream_type": "hls",
@@ -111,21 +124,8 @@
           "drm_key": null,
           "sort_order": 0
         },
-        false,
-        "not M3U8"
-      ],
-      [
-        {
-          "id": "1527",
-          "label": "SP - 2",
-          "stream_type": "dash",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_kid": "d1a163914db8ffad2c3e94f979896a0d",
-          "drm_key": "9728800a3959aafdd5b0bcfbf3768811",
-          "sort_order": 1
-        },
         true,
-        "OK (MPD)"
+        "OK (master)"
       ]
     ]
   },
@@ -168,10 +168,10 @@
     "_verified": [
       [
         {
-          "id": "5287",
+          "id": "1220",
           "label": "Server 1",
           "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4611427.m3u8",
+          "stream_url": "https://hls.live123.fans/live/4613092.m3u8",
           "drm_kid": null,
           "drm_key": null,
           "sort_order": 0
@@ -181,16 +181,16 @@
       ],
       [
         {
-          "id": "1220",
-          "label": "Server 1",
-          "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4613092.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 0
+          "id": "1527",
+          "label": "SP - 2",
+          "stream_type": "dash",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_kid": "d1a163914db8ffad2c3e94f979896a0d",
+          "drm_key": "9728800a3959aafdd5b0bcfbf3768811",
+          "sort_order": 1
         },
-        false,
-        "not M3U8"
+        true,
+        "OK (MPD)"
       ]
     ]
   },
@@ -316,19 +316,6 @@
     "_verified": [
       [
         {
-          "id": "3651",
-          "label": "SP - 3",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_kid": "0ad4080cdff8c60b1233b22087f0b340",
-          "drm_key": "285f129c5eca01dd08a5d5a14ad801c8",
-          "sort_order": 2
-        },
-        true,
-        "OK (MPD)"
-      ],
-      [
-        {
           "id": "2437",
           "label": "SP",
           "stream_type": "dash",
@@ -359,6 +346,19 @@
           "label": "SP",
           "stream_type": "hls",
           "stream_url": "https://live.vivo200.com/live/sd-1-4404630.m3u8?txSecret=7b6eb26bd9a06762510b33af6e7c096b&txTime=6A0F4B73|referer=https://player.online909.com/",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 0
+        },
+        false,
+        "not M3U8"
+      ],
+      [
+        {
+          "id": "2364",
+          "label": "Server 1",
+          "stream_type": "hls",
+          "stream_url": "https://hls.live123.fans/live/4565097.m3u8",
           "drm_kid": null,
           "drm_key": null,
           "sort_order": 0
@@ -407,16 +407,16 @@
     "_verified": [
       [
         {
-          "id": "2364",
-          "label": "Server 1",
-          "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4565097.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 0
+          "id": "3651",
+          "label": "SP - 3",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "drm_key": "285f129c5eca01dd08a5d5a14ad801c8",
+          "sort_order": 2
         },
-        false,
-        "not M3U8"
+        true,
+        "OK (MPD)"
       ],
       [
         {
@@ -463,10 +463,10 @@
     "_verified": [
       [
         {
-          "id": "2316",
+          "id": "927",
           "label": "Server 2",
           "stream_type": "hls",
-          "stream_url": "https://stream.sports3.win/iptv/live/signal-4611427-35330.m3u8",
+          "stream_url": "https://stream.sports3.win/iptv/live/signal-4613092-36075.m3u8",
           "drm_kid": null,
           "drm_key": null,
           "sort_order": 1
@@ -558,19 +558,6 @@
     "_verified": [
       [
         {
-          "id": "927",
-          "label": "Server 2",
-          "stream_type": "hls",
-          "stream_url": "https://stream.sports3.win/iptv/live/signal-4613092-36075.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 1
-        },
-        true,
-        "OK (master)"
-      ],
-      [
-        {
           "id": "1624",
           "label": "Server 1",
           "stream_type": "hls",
@@ -578,6 +565,19 @@
           "drm_kid": null,
           "drm_key": null,
           "sort_order": 0
+        },
+        false,
+        "not M3U8"
+      ],
+      [
+        {
+          "id": "2016",
+          "label": "Server 1",
+          "stream_type": "hls",
+          "stream_url": "https://hls.live123.fans/live/4578153.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 1
         },
         false,
         "not M3U8"
@@ -623,13 +623,13 @@
     "_verified": [
       [
         {
-          "id": "5319",
+          "id": "2733",
           "label": "SP",
           "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "drm_kid": "f3df7843080ae743bf865dc5fdf64c68",
-          "drm_key": "567c863bc12eb74788ea74888c042e1b",
-          "sort_order": 1
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "drm_key": "285f129c5eca01dd08a5d5a14ad801c8",
+          "sort_order": 0
         },
         true,
         "OK (MPD)"
@@ -707,29 +707,29 @@
     "_verified": [
       [
         {
-          "id": "2016",
-          "label": "Server 1",
-          "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4578153.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 1
+          "id": "5318",
+          "label": "SP",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/dgly6ezivq/out/v1/e1748eea04034eb688b927e4ed47438c/cenc.mpd",
+          "drm_kid": "674390473f712ac5c75e5d3ea67277c2",
+          "drm_key": "aca500cdee918538beeb65b1c458fd67",
+          "sort_order": 0
         },
         false,
-        "not M3U8"
+        "not MPD"
       ],
       [
         {
-          "id": "2733",
-          "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_kid": "0ad4080cdff8c60b1233b22087f0b340",
-          "drm_key": "285f129c5eca01dd08a5d5a14ad801c8",
+          "id": "1944",
+          "label": "Server 1",
+          "stream_type": "hls",
+          "stream_url": "https://play.gpycvac.com/rrty/sd-1-4351795.m3u8?txSecret=ad4c76cdf02940c931880fce85b6651f&txTime=69F5E1C2|referer=https://m.fqzb140.com/broadcast/details?match_id=4351795&room_id=888888888&sport_id=1",
+          "drm_kid": null,
+          "drm_key": null,
           "sort_order": 0
         },
-        true,
-        "OK (MPD)"
+        false,
+        "not M3U8"
       ]
     ]
   },
@@ -791,16 +791,16 @@
     "_verified": [
       [
         {
-          "id": "5321",
+          "id": "5319",
           "label": "SP",
-          "stream_type": "hls",
-          "stream_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 0
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm_kid": "f3df7843080ae743bf865dc5fdf64c68",
+          "drm_key": "567c863bc12eb74788ea74888c042e1b",
+          "sort_order": 1
         },
         true,
-        "OK (master)"
+        "OK (MPD)"
       ],
       [
         {
@@ -887,19 +887,6 @@
       ],
       [
         {
-          "id": "1944",
-          "label": "Server 1",
-          "stream_type": "hls",
-          "stream_url": "https://play.gpycvac.com/rrty/sd-1-4351795.m3u8?txSecret=ad4c76cdf02940c931880fce85b6651f&txTime=69F5E1C2|referer=https://m.fqzb140.com/broadcast/details?match_id=4351795&room_id=888888888&sport_id=1",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 0
-        },
-        false,
-        "not M3U8"
-      ],
-      [
-        {
           "id": "2289",
           "label": "Server 1",
           "stream_type": "hls",
@@ -913,16 +900,29 @@
       ],
       [
         {
-          "id": "4589",
+          "id": "5321",
           "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4h44dz4jjt/out/v1/5d50be7f265d49c398bd324160a2722a/cenc.mpd",
-          "drm_kid": "39940cfcd0fe9b262d3cf16a58cc23cf",
-          "drm_key": "790f0f14a81197fb17f31518cc23992e",
-          "sort_order": 1
+          "stream_type": "hls",
+          "stream_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 0
         },
-        false,
-        "not MPD"
+        true,
+        "OK (master)"
+      ],
+      [
+        {
+          "id": "5322",
+          "label": "SP",
+          "stream_type": "hls",
+          "stream_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 0
+        },
+        true,
+        "OK (master)"
       ]
     ]
   },
@@ -978,16 +978,16 @@
       ],
       [
         {
-          "id": "2580",
-          "label": "Server 1",
-          "stream_type": "hls",
-          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 3
+          "id": "4589",
+          "label": "SP",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4h44dz4jjt/out/v1/5d50be7f265d49c398bd324160a2722a/cenc.mpd",
+          "drm_kid": "39940cfcd0fe9b262d3cf16a58cc23cf",
+          "drm_key": "790f0f14a81197fb17f31518cc23992e",
+          "sort_order": 1
         },
         false,
-        "not M3U8"
+        "not MPD"
       ]
     ]
   },
@@ -1039,6 +1039,19 @@
     "_verified": [
       [
         {
+          "id": "3539",
+          "label": "SP - 2",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "drm_kid": "14eeabf30c14b7fbf3008c03099ce011",
+          "drm_key": "17d2ac8dbc5429bd70af3433aa12158d",
+          "sort_order": 1
+        },
+        true,
+        "OK (MPD)"
+      ],
+      [
+        {
           "id": "5034",
           "label": "SP",
           "stream_type": "dash",
@@ -1049,19 +1062,6 @@
         },
         false,
         "not MPD"
-      ],
-      [
-        {
-          "id": "5322",
-          "label": "SP",
-          "stream_type": "hls",
-          "stream_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 0
-        },
-        true,
-        "OK (master)"
       ],
       [
         {
@@ -1108,16 +1108,16 @@
     "_verified": [
       [
         {
-          "id": "5318",
-          "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/dgly6ezivq/out/v1/e1748eea04034eb688b927e4ed47438c/cenc.mpd",
-          "drm_kid": "674390473f712ac5c75e5d3ea67277c2",
-          "drm_key": "aca500cdee918538beeb65b1c458fd67",
-          "sort_order": 0
+          "id": "2580",
+          "label": "Server 1",
+          "stream_type": "hls",
+          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 3
         },
         false,
-        "not MPD"
+        "not M3U8"
       ]
     ]
   },
@@ -1160,25 +1160,25 @@
     "_verified": [
       [
         {
+          "id": "4590",
+          "label": "Server 1",
+          "stream_type": "hls",
+          "stream_url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 2
+        },
+        true,
+        "OK (master)"
+      ],
+      [
+        {
           "id": "1326",
           "label": "SP - 2",
           "stream_type": "dash",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
           "drm_kid": "e03f302ec4dabcccca82cc9f76731ec9",
           "drm_key": "53ea1027d2bf2893a552cf15bc0366de",
-          "sort_order": 1
-        },
-        true,
-        "OK (MPD)"
-      ],
-      [
-        {
-          "id": "3539",
-          "label": "SP - 2",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "drm_kid": "14eeabf30c14b7fbf3008c03099ce011",
-          "drm_key": "17d2ac8dbc5429bd70af3433aa12158d",
           "sort_order": 1
         },
         true,
@@ -1234,19 +1234,6 @@
     "_verified": [
       [
         {
-          "id": "4590",
-          "label": "Server 1",
-          "stream_type": "hls",
-          "stream_url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 2
-        },
-        true,
-        "OK (master)"
-      ],
-      [
-        {
           "id": "1327",
           "label": "SP - 3",
           "stream_type": "dash",
@@ -1270,6 +1257,19 @@
         },
         true,
         "OK (media)"
+      ],
+      [
+        {
+          "id": "1945",
+          "label": "Server 2",
+          "stream_type": "hls",
+          "stream_url": "https://c.kirfesa.shop/hls/JMMM.m3u8|referer=http://www.fawanews.sc/",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 1
+        },
+        false,
+        "HTTPSConnectionPool(host='c.kirfesa.shop', port=44"
       ]
     ]
   },
@@ -1321,6 +1321,19 @@
     "_verified": [
       [
         {
+          "id": "2316",
+          "label": "Server 2",
+          "stream_type": "hls",
+          "stream_url": "https://stream.sports3.win/iptv/live/signal-4611427-35330.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 1
+        },
+        true,
+        "OK (master)"
+      ],
+      [
+        {
           "id": "2197",
           "label": "SP - 2",
           "stream_type": "hls",
@@ -1331,19 +1344,6 @@
         },
         false,
         "HTTPSConnectionPool(host='ubuntu.fromthyheart.site"
-      ],
-      [
-        {
-          "id": "1945",
-          "label": "Server 2",
-          "stream_type": "hls",
-          "stream_url": "https://c.kirfesa.shop/hls/JMMM.m3u8|referer=http://www.fawanews.sc/",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 1
-        },
-        false,
-        "HTTPSConnectionPool(host='c.kirfesa.shop', port=44"
       ],
       [
         {

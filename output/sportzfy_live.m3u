@@ -1,6 +1,15 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-14T21:42:34.574822+06:00
+# Generated: 2026-08-14T22:41:09.481122+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 0
+# Total entries: 3
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1641.png" group-title="Football | Olympique de Marseille vs Atlético Madrid",🔴 ✓ Server 1 | Olympique de Marseille vs Atlético Madrid | Server 1
+https://hls.live123.fans/live/4611427.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1641.png" group-title="Football | Olympique de Marseille vs Atlético Madrid",🔴 ✓ Server 2 | Olympique de Marseille vs Atlético Madrid | Server 1
+https://hls.live123.fans/live/4613093.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2690.png" group-title="Football | Parma vs Catania",🔴 ✓ Server 1 | Parma vs Catania | Server 1
+https://hls.live123.fans/live/4613092.m3u8
