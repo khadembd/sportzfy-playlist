@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-08-14T18:41:11.120597+06:00",
-  "last_updated_unix": 1786711271,
+  "last_updated": "2026-08-14T20:18:47.779497+06:00",
+  "last_updated_unix": 1786717127,
   "source": "https://live.sportzfy.life",
   "stats": {
-    "total_events": 22,
-    "live_events": 0,
-    "upcoming_events": 22,
-    "total_streams": 43,
-    "verified_ok": 16,
-    "verified_failed": 27
+    "total_events": 21,
+    "live_events": 1,
+    "upcoming_events": 20,
+    "total_streams": 41,
+    "verified_ok": 17,
+    "verified_failed": 24
   },
-  "verification_rate": "37.2%",
-  "run_duration_seconds": 37.7,
+  "verification_rate": "41.5%",
+  "run_duration_seconds": 43.2,
   "github_raw_base": "https://raw.githubusercontent.com/khadembd/sportzfy-playlist/main/output/"
 }
