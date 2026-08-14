@@ -1,6 +1,6 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-14T20:18:47.777177+06:00
+# Generated: 2026-08-14T21:42:34.575111+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
 # Total entries: 2
@@ -8,5 +8,5 @@
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/377206.png" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",🔴 ✗ Server 1 | Sunrisers Leeds Women vs Southern Brave Women | BDIX
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/377206.png" group-title="Cricket | Sunrisers Leeds Women vs Southern Brave Women",🔴 ✗ Server 2 | Sunrisers Leeds Women vs Southern Brave Women | Server 1
-https://live.vivo200.com/live/hd-en-1-4534492.m3u8?txSecret=d6555bc17de8be10a9d39006aa601ef8&txTime=6A05109D|referer=https://player.787200.com/
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1641.png" group-title="Football | Olympique de Marseille vs Atlético Madrid",🔴 ✗ Server 1 | Olympique de Marseille vs Atlético Madrid | Server 1
+https://hls.live123.fans/live/4613093.m3u8
