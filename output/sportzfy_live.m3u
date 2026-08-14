@@ -1,15 +1,6 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-14T09:56:28.186286+06:00
+# Generated: 2026-08-14T11:26:14.183311+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 3
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187746.png" group-title="Cricket | Australia vs Bangladesh",🔴 ✓ Server 1 | Australia vs Bangladesh | SP - 2
-https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187746.png" group-title="Cricket | Australia vs Bangladesh",🔴 ✓ Server 2 | Australia vs Bangladesh | SP
-https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187746.png" group-title="Cricket | Australia vs Bangladesh",🔴 ✓ Server 3 | Australia vs Bangladesh | SP
-https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
+# Total entries: 0
