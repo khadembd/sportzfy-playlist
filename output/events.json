@@ -103,29 +103,29 @@
     "_verified": [
       [
         {
-          "id": "871",
-          "label": "Server 2",
+          "id": "1880",
+          "label": "Server 1",
           "stream_type": "hls",
-          "stream_url": "https://stream.sports3.win/iptv/live/signal-4599544-36121.m3u8",
+          "stream_url": "https://hls.live123.fans/live/4599545.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 1
+          "sort_order": 0
         },
         true,
         "OK (master)"
       ],
       [
         {
-          "id": "2288",
-          "label": "Server 2",
+          "id": "2364",
+          "label": "Server 1",
           "stream_type": "hls",
-          "stream_url": "https://stream.sports3.win/iptv/live/signal-4611488-36148.m3u8",
+          "stream_url": "https://hls.live123.fans/live/4565097.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 1
+          "sort_order": 0
         },
-        true,
-        "OK (master)"
+        false,
+        "not M3U8"
       ]
     ]
   },
@@ -168,10 +168,10 @@
     "_verified": [
       [
         {
-          "id": "2289",
+          "id": "3793",
           "label": "Server 1",
           "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4611488.m3u8",
+          "stream_url": "https://hls.live123.fans/live/4599544.m3u8",
           "drm_kid": null,
           "drm_key": null,
           "sort_order": 0
@@ -181,16 +181,16 @@
       ],
       [
         {
-          "id": "1880",
-          "label": "Server 1",
+          "id": "2257",
+          "label": "Server 2",
           "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4599545.m3u8",
+          "stream_url": "https://stream.sports3.win/iptv/live/signal-4565097-34954.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 0
+          "sort_order": 1
         },
-        true,
-        "OK (master)"
+        false,
+        "not M3U8"
       ]
     ]
   },
@@ -233,23 +233,23 @@
     "_verified": [
       [
         {
-          "id": "2364",
-          "label": "Server 1",
+          "id": "871",
+          "label": "Server 2",
           "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4565097.m3u8",
+          "stream_url": "https://stream.sports3.win/iptv/live/signal-4599544-36121.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 0
+          "sort_order": 1
         },
-        false,
-        "not M3U8"
+        true,
+        "OK (master)"
       ],
       [
         {
-          "id": "3793",
+          "id": "2289",
           "label": "Server 1",
           "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4599544.m3u8",
+          "stream_url": "https://hls.live123.fans/live/4611488.m3u8",
           "drm_kid": null,
           "drm_key": null,
           "sort_order": 0
@@ -311,13 +311,13 @@
       ],
       [
         {
-          "id": "5350",
-          "label": "Server 2",
+          "id": "1944",
+          "label": "Server 1",
           "stream_type": "hls",
-          "stream_url": "https://stream.sports3.win/iptv/live/signal-4553148-36141.m3u8",
+          "stream_url": "https://hls.live123.fans/live/4563504.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 1
+          "sort_order": 0
         },
         true,
         "OK (master)"
@@ -363,13 +363,13 @@
     "_verified": [
       [
         {
-          "id": "1944",
-          "label": "Server 1",
+          "id": "1945",
+          "label": "Server 2",
           "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4563504.m3u8",
+          "stream_url": "https://stream.sports3.win/iptv/live/signal-4563504-36149.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 0
+          "sort_order": 1
         },
         true,
         "OK (master)"
@@ -428,10 +428,10 @@
     "_verified": [
       [
         {
-          "id": "1945",
+          "id": "5350",
           "label": "Server 2",
           "stream_type": "hls",
-          "stream_url": "https://stream.sports3.win/iptv/live/signal-4563504-36149.m3u8",
+          "stream_url": "https://stream.sports3.win/iptv/live/signal-4553148-36141.m3u8",
           "drm_kid": null,
           "drm_key": null,
           "sort_order": 1
@@ -493,13 +493,13 @@
     "_verified": [
       [
         {
-          "id": "2016",
-          "label": "Server 1",
+          "id": "5351",
+          "label": "Server 2",
           "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4578167.m3u8",
+          "stream_url": "https://stream.sports3.win/iptv/live/signal-4613094-36079.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 0
+          "sort_order": 1
         },
         true,
         "OK (master)"
@@ -571,16 +571,16 @@
       ],
       [
         {
-          "id": "2452",
-          "label": "Server 2",
-          "stream_type": "hls",
-          "stream_url": "https://stream.sports3.win/iptv/live/signal-4578167-36151.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 1
+          "id": "5319",
+          "label": "SP",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm_kid": "f3df7843080ae743bf865dc5fdf64c68",
+          "drm_key": "567c863bc12eb74788ea74888c042e1b",
+          "sort_order": 0
         },
         true,
-        "OK (master)"
+        "OK (MPD)"
       ]
     ]
   },
@@ -632,29 +632,16 @@
     "_verified": [
       [
         {
-          "id": "5351",
-          "label": "Server 2",
+          "id": "2016",
+          "label": "Server 1",
           "stream_type": "hls",
-          "stream_url": "https://stream.sports3.win/iptv/live/signal-4613094-36079.m3u8",
+          "stream_url": "https://hls.live123.fans/live/4578167.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 1
+          "sort_order": 0
         },
         true,
         "OK (master)"
-      ],
-      [
-        {
-          "id": "2257",
-          "label": "Server 2",
-          "stream_type": "hls",
-          "stream_url": "https://stream.sports3.win/iptv/live/signal-4565097-34954.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 1
-        },
-        false,
-        "not M3U8"
       ],
       [
         {
@@ -668,6 +655,19 @@
         },
         false,
         "not MPD"
+      ],
+      [
+        {
+          "id": "2452",
+          "label": "Server 2",
+          "stream_type": "hls",
+          "stream_url": "https://stream.sports3.win/iptv/live/signal-4578167-36151.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 1
+        },
+        true,
+        "OK (master)"
       ]
     ]
   },
@@ -710,19 +710,6 @@
     "_verified": [
       [
         {
-          "id": "5319",
-          "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "drm_kid": "f3df7843080ae743bf865dc5fdf64c68",
-          "drm_key": "567c863bc12eb74788ea74888c042e1b",
-          "sort_order": 0
-        },
-        true,
-        "OK (MPD)"
-      ],
-      [
-        {
           "id": "1881",
           "label": "Server 2",
           "stream_type": "hls",
@@ -733,6 +720,19 @@
         },
         true,
         "OK (master)"
+      ],
+      [
+        {
+          "id": "5310",
+          "label": "SP",
+          "stream_type": "dash",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rpy1a8weyh/out/v1/299c646dd6c14fbbb217f087b073efb6/cenc.mpd",
+          "drm_kid": "3e3f5a3ab879d14a9b75a996cea9bec7",
+          "drm_key": "fa8cf5d417273db21e3125f52eb3ecd9",
+          "sort_order": 0
+        },
+        false,
+        "not MPD"
       ]
     ]
   },
@@ -784,16 +784,16 @@
     "_verified": [
       [
         {
-          "id": "5316",
-          "label": "SP - 2",
-          "stream_type": "hls",
-          "stream_url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
+          "id": "4589",
+          "label": "SP",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4h44dz4jjt/out/v1/5d50be7f265d49c398bd324160a2722a/cenc.mpd",
+          "drm_kid": "39940cfcd0fe9b262d3cf16a58cc23cf",
+          "drm_key": "790f0f14a81197fb17f31518cc23992e",
           "sort_order": 1
         },
-        true,
-        "OK (master)"
+        false,
+        "not MPD"
       ],
       [
         {
@@ -810,16 +810,16 @@
       ],
       [
         {
-          "id": "5310",
-          "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rpy1a8weyh/out/v1/299c646dd6c14fbbb217f087b073efb6/cenc.mpd",
-          "drm_kid": "3e3f5a3ab879d14a9b75a996cea9bec7",
-          "drm_key": "fa8cf5d417273db21e3125f52eb3ecd9",
-          "sort_order": 0
+          "id": "5316",
+          "label": "SP - 2",
+          "stream_type": "hls",
+          "stream_url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 1
         },
-        false,
-        "not MPD"
+        true,
+        "OK (master)"
       ]
     ]
   },
@@ -905,29 +905,29 @@
     "_verified": [
       [
         {
-          "id": "4589",
-          "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4h44dz4jjt/out/v1/5d50be7f265d49c398bd324160a2722a/cenc.mpd",
-          "drm_kid": "39940cfcd0fe9b262d3cf16a58cc23cf",
-          "drm_key": "790f0f14a81197fb17f31518cc23992e",
-          "sort_order": 1
-        },
-        false,
-        "not MPD"
-      ],
-      [
-        {
-          "id": "3539",
-          "label": "SP - 2",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "drm_kid": "14eeabf30c14b7fbf3008c03099ce011",
-          "drm_key": "17d2ac8dbc5429bd70af3433aa12158d",
+          "id": "2288",
+          "label": "Server 2",
+          "stream_type": "hls",
+          "stream_url": "https://stream.sports3.win/iptv/live/signal-4611488-36148.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
           "sort_order": 1
         },
         true,
-        "OK (MPD)"
+        "OK (master)"
+      ],
+      [
+        {
+          "id": "2580",
+          "label": "Server 1",
+          "stream_type": "hls",
+          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 2
+        },
+        false,
+        "not M3U8"
       ]
     ]
   },
@@ -970,19 +970,6 @@
     "_verified": [
       [
         {
-          "id": "2580",
-          "label": "Server 1",
-          "stream_type": "hls",
-          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 2
-        },
-        false,
-        "not M3U8"
-      ],
-      [
-        {
           "id": "4534",
           "label": "SP",
           "stream_type": "dash",
@@ -990,6 +977,19 @@
           "drm_kid": "f3df7843080ae743bf865dc5fdf64c68",
           "drm_key": "567c863bc12eb74788ea74888c042e1b",
           "sort_order": 0
+        },
+        true,
+        "OK (MPD)"
+      ],
+      [
+        {
+          "id": "3539",
+          "label": "SP - 2",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "drm_kid": "14eeabf30c14b7fbf3008c03099ce011",
+          "drm_key": "17d2ac8dbc5429bd70af3433aa12158d",
+          "sort_order": 1
         },
         true,
         "OK (MPD)"
