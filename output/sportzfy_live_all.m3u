@@ -1,21 +1,21 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-15T05:13:10.968341+06:00
+# Generated: 2026-08-15T06:38:28.977465+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
 # Total entries: 5
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2693.png" group-title="Football | Fiorentina vs Benevento",🔴 ✓ Server 1 | Fiorentina vs Benevento | Server 2
-https://stream.sports3.win/iptv/live/signal-4613094-36079.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187825.png" group-title="Cricket | Saint Lucia Kings vs Antigua & Barbuda Falcons",🔴 ✗ Server 1 | Saint Lucia Kings vs Antigua & Barbuda Falcons | BDIX
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2693.png" group-title="Football | Fiorentina vs Benevento",🔴 ✓ Server 2 | Fiorentina vs Benevento | SP
-https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3001.png" group-title="Football | Sporting CP vs Vitória SC",🔴 ✗ Server 1 | Sporting CP vs Vitória SC | Tapmad
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187825.png" group-title="Cricket | Saint Lucia Kings vs Antigua & Barbuda Falcons",🔴 ✗ Server 2 | Saint Lucia Kings vs Antigua & Barbuda Falcons | Tapmad
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187825.png" group-title="Cricket | Saint Lucia Kings vs Antigua & Barbuda Falcons",🔴 ✓ Server 1 | Saint Lucia Kings vs Antigua & Barbuda Falcons | Server 1
-https://hls.live123.fans/live/4578167.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/WWE_SmackDown_%282024%29_Logo.svg/500px-WWE_SmackDown_%282024%29_Logo.svg.png" group-title="WWE | Friday Night SmackDown vs Friday Night SmackDown",🔴 ✓ Server 1 | Friday Night SmackDown vs Friday Night SmackDown | SP
+https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187825.png" group-title="Cricket | Saint Lucia Kings vs Antigua & Barbuda Falcons",🔴 ✓ Server 2 | Saint Lucia Kings vs Antigua & Barbuda Falcons | Server 2
-https://stream.sports3.win/iptv/live/signal-4578167-36151.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187746.png" group-title="Cricket | Australia vs Bangladesh",🔴 ✓ Server 1 | Australia vs Bangladesh | SP - 2
+https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187746.png" group-title="Cricket | Australia vs Bangladesh",🔴 ✓ Server 2 | Australia vs Bangladesh | SP
+https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
