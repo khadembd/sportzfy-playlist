@@ -1,57 +1,69 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-15T20:13:19.889508+06:00
+# Generated: 2026-08-15T21:11:33.852492+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: all | Unverified: excluded
-# Total entries: 17
+# Total entries: 21
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187766.png" group-title="Cricket | Ireland vs Afghanistan",✓ ✓ Server 1 | Ireland vs Afghanistan | Server 2
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNWGRDgp/1000085356-removebg-preview.png" group-title="Cricket | Pakistan National Champions Cup vs Pakistan National Champions Cup",✓ ✓ Server 1 | Pakistan National Champions Cup vs Pakistan National Champions Cup | SP - 2
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187766.png" group-title="Cricket | Ireland vs Afghanistan",✓ ✓ Server 2 | Ireland vs Afghanistan | SP - 2
 https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2527.png" group-title="Football | Borussia M'gladbach vs Aston Villa",🔴 ✓ Server 1 | Borussia M'gladbach vs Aston Villa | Server 1
-https://hls.live123.fans/live/4613261.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2527.png" group-title="Football | Borussia M'gladbach vs Aston Villa",🔴 ✓ Server 2 | Borussia M'gladbach vs Aston Villa | Server 1
-https://hls.live123.fans/live/4613260.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2527.png" group-title="Football | Borussia M'gladbach vs Aston Villa",🔴 ✓ Server 3 | Borussia M'gladbach vs Aston Villa | Server 3
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2527.png" group-title="Football | Borussia M'gladbach vs Aston Villa",🔴 ✓ Server 1 | Borussia M'gladbach vs Aston Villa | Server 3
 https://hls.live123.fans/live/4565096.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2547.png" group-title="Football | 1. FC Union Berlin vs Ipswich Town",🔴 ✓ Server 1 | 1. FC Union Berlin vs Ipswich Town | Server 1
 https://hls.live123.fans/live/4594040.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2556.png" group-title="Football | 1. FSV Mainz 05 vs Bournemouth",🔴 ✓ Server 1 | 1. FSV Mainz 05 vs Bournemouth | Server 1
-https://hls.live123.fans/live/4613262.m3u8
+https://hls.live123.fans/live/4613261.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/33.png" group-title="Football | Tottenham Hotspur vs TSG Hoffenheim",🔴 ✓ Server 1 | Tottenham Hotspur vs TSG Hoffenheim | Server 1
-https://hls.live123.fans/live/4594037.m3u8
+https://hls.live123.fans/live/4613260.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/33.png" group-title="Football | Tottenham Hotspur vs TSG Hoffenheim",🔴 ✓ Server 2 | Tottenham Hotspur vs TSG Hoffenheim | Server 1
+https://hls.live123.fans/live/4613262.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/50.png" group-title="Football | Brentford vs Eintracht Frankfurt",🔴 ✓ Server 1 | Brentford vs Eintracht Frankfurt | Server 1
-https://hls.live123.fans/live/4612372.m3u8
+https://hls.live123.fans/live/4594037.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/48.png" group-title="Football | Everton vs Lille",🔴 ✓ Server 1 | Everton vs Lille | Server 1
-https://hls.live123.fans/live/4594043.m3u8
+https://hls.live123.fans/live/4612372.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/96.png" group-title="Football | Hull City vs Nice",🔴 ✓ Server 1 | Hull City vs Nice | Server 1
+https://hls.live123.fans/live/4594043.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/39.png" group-title="Football | Newcastle United vs Bayer 04 Leverkusen",🔴 ✓ Server 1 | Newcastle United vs Bayer 04 Leverkusen | Server 1
 https://hls.live123.fans/live/4563509.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/263.png" group-title="Football | Norwich City vs West Bromwich Albion",🔴 ✓ Server 1 | Norwich City vs West Bromwich Albion | SP - 2
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/263.png" group-title="Football | Norwich City vs West Bromwich Albion",🔴 ✓ Server 1 | Norwich City vs West Bromwich Albion | Server 1
+https://hls.live123.fans/live/4541762.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2692.png" group-title="Football | AC Milan vs Manchester United",🔴 ✓ Server 1 | AC Milan vs Manchester United | SP - 2
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2885.png" group-title="Football | Deportivo Alavés vs Getafe",⏳ ✓ Server 1 | Deportivo Alavés vs Getafe | Server 2
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/23400.png" group-title="Football | Al-Nassr vs Al-Fateh",⏳ ✓ Server 1 | Al-Nassr vs Al-Fateh | Server 2
+https://stream.sports3.win/iptv/live/signal-4599544-36121.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2696.png" group-title="Football | Torino vs Carrarese",⏳ ✓ Server 1 | Torino vs Carrarese | Server 2
+https://stream.sports3.win/iptv/live/signal-4599545-36122.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2833.png" group-title="Football | Sevilla vs Rayo Vallecano",⏳ ✓ Server 1 | Sevilla vs Rayo Vallecano | Server 2
 https://cdn01isb-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDExOjUzOjMxIEFNJmhhc2hfdmFsdWU9U0tlVFlPcm5zSDV0dVk4dmNuRFlYZz09JnZhbGlkbWludXRlcz02MA%3D%3D
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✓ Server 1 | Sri Lanka vs India | Server 2
-https://stream.sports3.win/iptv/live/signal-4613092-36075.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2833.png" group-title="Football | Sevilla vs Rayo Vallecano",⏳ ✓ Server 2 | Sevilla vs Rayo Vallecano | Server 2
+https://stream.sports3.win/iptv/live/signal-4578167-36151.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✓ Server 2 | Sri Lanka vs India | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187746.png" group-title="Cricket | Australia vs Bangladesh",⏳ ✓ Server 1 | Australia vs Bangladesh | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",⏳ ✓ Server 1 | Formula 1 vs Formula 1 | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✓ Server 1 | Sri Lanka vs India | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/WWE_RAW_Logo_2025.svg" group-title="WWE | Monday Night Raw vs Monday Night Raw",⏳ ✓ Server 1 | Monday Night Raw vs Monday Night Raw | Server 2
+https://stream.sports3.win/iptv/live/signal-4613093-36076.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/3maFhZB.png" group-title="Motorsports | MotoGP vs MotoGP",⏳ ✓ Server 1 | MotoGP vs MotoGP | Server 2
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8
