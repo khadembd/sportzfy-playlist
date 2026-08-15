@@ -1,27 +1,15 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-16T01:14:47.028778+06:00
+# Generated: 2026-08-16T02:11:34.977544+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 7
+# Total entries: 3
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2673.png" group-title="Football | Borussia Dortmund vs AS Roma",🔴 ✓ Server 1 | Borussia Dortmund vs AS Roma | SP - 2
-https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2833.png" group-title="Football | Sevilla vs Rayo Vallecano",🔴 ✓ Server 1 | Sevilla vs Rayo Vallecano | Server 1
+https://hls.live123.fans/live/4578166.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2673.png" group-title="Football | Borussia Dortmund vs AS Roma",🔴 ✓ Server 2 | Borussia Dortmund vs AS Roma | Server 1
-https://hls.live123.fans/live/4563512.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/15.png" group-title="Football | Sheffield United vs Birmingham City",🔴 ✓ Server 1 | Sheffield United vs Birmingham City | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3036.png" group-title="Football | Rio Ave vs FC Porto",🔴 ✓ Server 1 | Rio Ave vs FC Porto | Server 1
 https://hls.live123.fans/live/4564317.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2695.png" group-title="Football | Udinese vs Padova",🔴 ✓ Server 1 | Udinese vs Padova | Server 1
-https://hls.live123.fans/live/4613271.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2885.png" group-title="Football | Deportivo Alavés vs Getafe",🔴 ✓ Server 1 | Deportivo Alavés vs Getafe | Server 1
-https://hls.live123.fans/live/4565316.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/23400.png" group-title="Football | Al-Nassr vs Al-Fateh",🔴 ✓ Server 1 | Al-Nassr vs Al-Fateh | Server 1
-https://hls.live123.fans/live/4599547.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2696.png" group-title="Football | Torino vs Carrarese",🔴 ✓ Server 1 | Torino vs Carrarese | Server 1
-https://hls.live123.fans/live/4599548.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3036.png" group-title="Football | Rio Ave vs FC Porto",🔴 ✓ Server 2 | Rio Ave vs FC Porto | Server 1
+https://hls.live123.fans/live/4565324.m3u8
