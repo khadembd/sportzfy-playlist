@@ -1,27 +1,24 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-15T14:16:26.159896+06:00
+# Generated: 2026-08-15T15:16:57.245308+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: upcoming | Unverified: excluded
-# Total entries: 7
+# Total entries: 6
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187766.png" group-title="Cricket | Ireland vs Afghanistan",⏳ ✓ Server 1 | Ireland vs Afghanistan | SP - 2
-https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2538.png" group-title="Football | SC Freiburg vs Crystal Palace",⏳ ✓ Server 1 | SC Freiburg vs Crystal Palace | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2547.png" group-title="Football | 1. FC Union Berlin vs Ipswich Town",⏳ ✓ Server 1 | 1. FC Union Berlin vs Ipswich Town | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2556.png" group-title="Football | 1. FSV Mainz 05 vs Bournemouth",⏳ ✓ Server 1 | 1. FSV Mainz 05 vs Bournemouth | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187746.png" group-title="Cricket | Australia vs Bangladesh",⏳ ✓ Server 1 | Australia vs Bangladesh | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",⏳ ✓ Server 1 | Formula 1 vs Formula 1 | Server 2
-https://stream.sports3.win/iptv/live/signal-4611488-36148.m3u8
+https://stream.sports3.win/iptv/live/signal-4611427-35330.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",⏳ ✓ Server 2 | Formula 1 vs Formula 1 | Server 2
-https://stream.sports3.win/iptv/live/signal-4611427-35330.m3u8
+https://stream.sports3.win/iptv/live/signal-4611488-36148.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/WWE_SmackDown_%282024%29_Logo.svg/500px-WWE_SmackDown_%282024%29_Logo.svg.png" group-title="WWE | Friday Night SmackDown vs Friday Night SmackDown",⏳ ✓ Server 1 | Friday Night SmackDown vs Friday Night SmackDown | Server 2
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/3maFhZB.png" group-title="Motorsports | MotoGP vs MotoGP",⏳ ✓ Server 1 | MotoGP vs MotoGP | Server 2
 https://cdn01isb-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDExOjUzOjMxIEFNJmhhc2hfdmFsdWU9U0tlVFlPcm5zSDV0dVk4dmNuRFlYZz09JnZhbGlkbWludXRlcz02MA%3D%3D
-
-#EXTINF:-1 tvg-logo="https://iili.io/3maFhZB.png" group-title="Motorsports | MotoGP vs MotoGP",⏳ ✓ Server 2 | MotoGP vs MotoGP | Server 2
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8
