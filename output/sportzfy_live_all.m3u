@@ -1,18 +1,21 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-15T17:11:35.976225+06:00
+# Generated: 2026-08-15T18:18:34.988617+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 4
+# Total entries: 5
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187766.png" group-title="Cricket | Ireland vs Afghanistan",🔴 ✗ Server 1 | Ireland vs Afghanistan | Low
 http://193.47.62.190/hls/KKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187766.png" group-title="Cricket | Ireland vs Afghanistan",🔴 ✓ Server 2 | Ireland vs Afghanistan | Server 2
-https://stream.sports3.win/iptv/live/signal-4611427-35330.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187766.png" group-title="Cricket | Ireland vs Afghanistan",🔴 ✓ Server 2 | Ireland vs Afghanistan | Server 1
+https://hls.live123.fans/live/4562376.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNWGRDgp/1000085356-removebg-preview.png" group-title="Cricket | Pakistan National Champions Cup vs Pakistan National Champions Cup",🔴 ✗ Server 1 | Pakistan National Champions Cup vs Pakistan National Champions Cup | Server 1
 https://hls.live123.fans/live/4565097.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNWGRDgp/1000085356-removebg-preview.png" group-title="Cricket | Pakistan National Champions Cup vs Pakistan National Champions Cup",🔴 ✗ Server 2 | Pakistan National Champions Cup vs Pakistan National Champions Cup | Server 1
-https://hls.live123.fans/live/4611427.m3u8
+https://hls.live123.fans/live/4611488.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/56.png" group-title="Football | Notts County vs Leicester City",🔴 ✓ Server 1 | Notts County vs Leicester City | Server 2
+https://stream.sports3.win/iptv/live/signal-4611488-36148.m3u8
