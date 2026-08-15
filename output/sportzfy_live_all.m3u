@@ -1,6 +1,15 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-15T15:16:57.245167+06:00
+# Generated: 2026-08-15T16:13:38.947927+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 0
+# Total entries: 3
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187766.png" group-title="Cricket | Ireland vs Afghanistan",🔴 ✗ Server 1 | Ireland vs Afghanistan | Low
+http://193.47.62.190/hls/KKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNWGRDgp/1000085356-removebg-preview.png" group-title="Cricket | Pakistan National Champions Cup vs Pakistan National Champions Cup",🔴 ✗ Server 1 | Pakistan National Champions Cup vs Pakistan National Champions Cup | Server 1
+https://hls.live123.fans/live/4611427.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNWGRDgp/1000085356-removebg-preview.png" group-title="Cricket | Pakistan National Champions Cup vs Pakistan National Champions Cup",🔴 ✓ Server 2 | Pakistan National Champions Cup vs Pakistan National Champions Cup | Server 2
+https://stream.sports3.win/iptv/live/signal-4611427-35330.m3u8
