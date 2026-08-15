@@ -1,15 +1,24 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-15T23:12:56.822580+06:00
+# Generated: 2026-08-16T00:14:24.168766+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 3
+# Total entries: 6
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2673.png" group-title="Football | Borussia Dortmund vs AS Roma",🔴 ✓ Server 1 | Borussia Dortmund vs AS Roma | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/56021.png" group-title="Football | Al-Taawoun vs Al-Khaleej",🔴 ✓ Server 1 | Al-Taawoun vs Al-Khaleej | Server 2
+https://hls.live123.fans/live/4547906.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/15.png" group-title="Football | Sheffield United vs Birmingham City",🔴 ✓ Server 1 | Sheffield United vs Birmingham City | SP
 https://hls.live123.fans/live/4599546.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/56021.png" group-title="Football | Al-Taawoun vs Al-Khaleej",🔴 ✓ Server 1 | Al-Taawoun vs Al-Khaleej | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/15.png" group-title="Football | Sheffield United vs Birmingham City",🔴 ✓ Server 2 | Sheffield United vs Birmingham City | Server 1
 https://hls.live123.fans/live/4563512.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/15.png" group-title="Football | Sheffield United vs Birmingham City",🔴 ✓ Server 1 | Sheffield United vs Birmingham City | Server 1
-https://hls.live123.fans/live/4564317.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2697.png" group-title="Football | Inter vs Real Betis",🔴 ✓ Server 1 | Inter vs Real Betis | Server 1
+https://hls.live123.fans/live/4565316.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2885.png" group-title="Football | Deportivo Alavés vs Getafe",🔴 ✓ Server 1 | Deportivo Alavés vs Getafe | Server 1
+https://hls.live123.fans/live/4613271.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/23400.png" group-title="Football | Al-Nassr vs Al-Fateh",🔴 ✓ Server 1 | Al-Nassr vs Al-Fateh | Server 1
+https://hls.live123.fans/live/4599547.m3u8
