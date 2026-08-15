@@ -1,45 +1,36 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-15T21:11:33.854252+06:00
+# Generated: 2026-08-15T22:12:54.536647+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 13
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/38.png" group-title="Football | Chelsea vs Real Sociedad",🔴 ✗ Server 1 | Chelsea vs Real Sociedad | Server 1
-https://hls.live123.fans/live/4593730.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2527.png" group-title="Football | Borussia M'gladbach vs Aston Villa",🔴 ✓ Server 1 | Borussia M'gladbach vs Aston Villa | Server 3
-https://hls.live123.fans/live/4565096.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2547.png" group-title="Football | 1. FC Union Berlin vs Ipswich Town",🔴 ✓ Server 1 | 1. FC Union Berlin vs Ipswich Town | Server 1
-https://hls.live123.fans/live/4594040.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2556.png" group-title="Football | 1. FSV Mainz 05 vs Bournemouth",🔴 ✓ Server 1 | 1. FSV Mainz 05 vs Bournemouth | Server 1
-https://hls.live123.fans/live/4613261.m3u8
+# Total entries: 10
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/33.png" group-title="Football | Tottenham Hotspur vs TSG Hoffenheim",🔴 ✓ Server 1 | Tottenham Hotspur vs TSG Hoffenheim | Server 1
-https://hls.live123.fans/live/4613260.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/33.png" group-title="Football | Tottenham Hotspur vs TSG Hoffenheim",🔴 ✓ Server 2 | Tottenham Hotspur vs TSG Hoffenheim | Server 1
-https://hls.live123.fans/live/4613262.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/50.png" group-title="Football | Brentford vs Eintracht Frankfurt",🔴 ✓ Server 1 | Brentford vs Eintracht Frankfurt | Server 1
 https://hls.live123.fans/live/4594037.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/48.png" group-title="Football | Everton vs Lille",🔴 ✓ Server 1 | Everton vs Lille | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/33.png" group-title="Football | Tottenham Hotspur vs TSG Hoffenheim",🔴 ✓ Server 2 | Tottenham Hotspur vs TSG Hoffenheim | Server 1
 https://hls.live123.fans/live/4612372.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/96.png" group-title="Football | Hull City vs Nice",🔴 ✓ Server 1 | Hull City vs Nice | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/50.png" group-title="Football | Brentford vs Eintracht Frankfurt",🔴 ✓ Server 1 | Brentford vs Eintracht Frankfurt | Server 1
 https://hls.live123.fans/live/4594043.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/39.png" group-title="Football | Newcastle United vs Bayer 04 Leverkusen",🔴 ✗ Server 1 | Newcastle United vs Bayer 04 Leverkusen | Server 3
-https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102508&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=58eaaf823b8b124213229ac251f2efbc
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/39.png" group-title="Football | Newcastle United vs Bayer 04 Leverkusen",🔴 ✓ Server 2 | Newcastle United vs Bayer 04 Leverkusen | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/48.png" group-title="Football | Everton vs Lille",🔴 ✓ Server 1 | Everton vs Lille | Server 1
 https://hls.live123.fans/live/4563509.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/263.png" group-title="Football | Norwich City vs West Bromwich Albion",🔴 ✓ Server 1 | Norwich City vs West Bromwich Albion | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/263.png" group-title="Football | Norwich City vs West Bromwich Albion",🔴 ✓ Server 1 | Norwich City vs West Bromwich Albion | SP - 2
+https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2692.png" group-title="Football | AC Milan vs Manchester United",🔴 ✓ Server 1 | AC Milan vs Manchester United | Server 1
 https://hls.live123.fans/live/4541762.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2692.png" group-title="Football | AC Milan vs Manchester United",🔴 ✓ Server 1 | AC Milan vs Manchester United | SP - 2
-https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2673.png" group-title="Football | Borussia Dortmund vs AS Roma",🔴 ✓ Server 1 | Borussia Dortmund vs AS Roma | Server 2
+https://hls.live123.fans/live/4547906.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2673.png" group-title="Football | Borussia Dortmund vs AS Roma",🔴 ✗ Server 2 | Borussia Dortmund vs AS Roma | SP
+https://hls.live123.fans/live/4599546.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2673.png" group-title="Football | Borussia Dortmund vs AS Roma",🔴 ✗ Server 3 | Borussia Dortmund vs AS Roma | Server 1
+https://hls.live123.fans/live/4563512.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/56021.png" group-title="Football | Al-Taawoun vs Al-Khaleej",🔴 ✗ Server 1 | Al-Taawoun vs Al-Khaleej | Server 3
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102508&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=58eaaf823b8b124213229ac251f2efbc
