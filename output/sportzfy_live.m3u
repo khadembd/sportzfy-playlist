@@ -1,12 +1,9 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-15T18:18:34.988433+06:00
+# Generated: 2026-08-15T19:23:34.916556+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 2
+# Total entries: 1
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187766.png" group-title="Cricket | Ireland vs Afghanistan",🔴 ✓ Server 1 | Ireland vs Afghanistan | Server 1
 https://hls.live123.fans/live/4562376.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/56.png" group-title="Football | Notts County vs Leicester City",🔴 ✓ Server 1 | Notts County vs Leicester City | Server 2
-https://stream.sports3.win/iptv/live/signal-4611488-36148.m3u8

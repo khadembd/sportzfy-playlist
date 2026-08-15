@@ -1,9 +1,9 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-15T18:18:34.987292+06:00
+# Generated: 2026-08-15T19:23:34.915171+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: all | Unverified: excluded
-# Total entries: 10
+# Total entries: 8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",✓ ✓ Server 1 | Sri Lanka vs India | SP - 2
 https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
@@ -11,26 +11,20 @@ https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187766.png" group-title="Cricket | Ireland vs Afghanistan",🔴 ✓ Server 1 | Ireland vs Afghanistan | Server 1
 https://hls.live123.fans/live/4562376.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/56.png" group-title="Football | Notts County vs Leicester City",🔴 ✓ Server 1 | Notts County vs Leicester City | Server 2
-https://stream.sports3.win/iptv/live/signal-4611488-36148.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/41.png" group-title="Football | Sunderland vs Stade Rennais",⏳ ✓ Server 1 | Sunderland vs Stade Rennais | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2692.png" group-title="Football | AC Milan vs Manchester United",⏳ ✓ Server 1 | AC Milan vs Manchester United | SP - 2
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/33.png" group-title="Football | Tottenham Hotspur vs TSG Hoffenheim",⏳ ✓ Server 1 | Tottenham Hotspur vs TSG Hoffenheim | Server 2
-https://stream.sports3.win/iptv/live/signal-4563504-36149.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/56021.png" group-title="Football | Al-Taawoun vs Al-Khaleej",⏳ ✓ Server 1 | Al-Taawoun vs Al-Khaleej | Server 2
-https://stream.sports3.win/iptv/live/signal-4613092-36075.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2885.png" group-title="Football | Deportivo Alavés vs Getafe",⏳ ✓ Server 1 | Deportivo Alavés vs Getafe | SP
-https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2885.png" group-title="Football | Deportivo Alavés vs Getafe",⏳ ✓ Server 2 | Deportivo Alavés vs Getafe | Server 2
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2695.png" group-title="Football | Udinese vs Padova",⏳ ✓ Server 1 | Udinese vs Padova | Server 2
 https://cdn01isb-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDExOjUzOjMxIEFNJmhhc2hfdmFsdWU9U0tlVFlPcm5zSDV0dVk4dmNuRFlYZz09JnZhbGlkbWludXRlcz02MA%3D%3D
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2967.png" group-title="Football | Excelsior vs PSV Eindhoven",⏳ ✓ Server 1 | Excelsior vs PSV Eindhoven | SP
+https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187746.png" group-title="Cricket | Australia vs Bangladesh",⏳ ✓ Server 1 | Australia vs Bangladesh | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/WWE_SmackDown_%282024%29_Logo.svg/500px-WWE_SmackDown_%282024%29_Logo.svg.png" group-title="WWE | Friday Night SmackDown vs Friday Night SmackDown",⏳ ✓ Server 1 | Friday Night SmackDown vs Friday Night SmackDown | Server 2
+https://stream.sports3.win/iptv/live/signal-4613092-36075.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3maFhZB.png" group-title="Motorsports | MotoGP vs MotoGP",⏳ ✓ Server 1 | MotoGP vs MotoGP | Server 2
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8
