@@ -1,9 +1,12 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-16T04:11:53.396442+06:00
+# Generated: 2026-08-16T05:12:28.753485+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 1
+# Total entries: 2
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/309889.png" group-title="Football | Cavalry FC vs Forge FC",🔴 ✗ Server 1 | Cavalry FC vs Forge FC | BDIX
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/461782.png" group-title="UFC | Islam Makhachev vs Ian Machado Garry",🔴 ✗ Server 1 | Islam Makhachev vs Ian Machado Garry | BDIX
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/461782.png" group-title="UFC | Islam Makhachev vs Ian Machado Garry",🔴 ✗ Server 2 | Islam Makhachev vs Ian Machado Garry | Tapmad
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM/master.m3u8
