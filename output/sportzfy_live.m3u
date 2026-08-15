@@ -1,24 +1,27 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-16T00:14:24.168766+06:00
+# Generated: 2026-08-16T01:14:47.028778+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 6
+# Total entries: 7
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/56021.png" group-title="Football | Al-Taawoun vs Al-Khaleej",🔴 ✓ Server 1 | Al-Taawoun vs Al-Khaleej | Server 2
-https://hls.live123.fans/live/4547906.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2673.png" group-title="Football | Borussia Dortmund vs AS Roma",🔴 ✓ Server 1 | Borussia Dortmund vs AS Roma | SP - 2
+https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/15.png" group-title="Football | Sheffield United vs Birmingham City",🔴 ✓ Server 1 | Sheffield United vs Birmingham City | SP
-https://hls.live123.fans/live/4599546.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/15.png" group-title="Football | Sheffield United vs Birmingham City",🔴 ✓ Server 2 | Sheffield United vs Birmingham City | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2673.png" group-title="Football | Borussia Dortmund vs AS Roma",🔴 ✓ Server 2 | Borussia Dortmund vs AS Roma | Server 1
 https://hls.live123.fans/live/4563512.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2697.png" group-title="Football | Inter vs Real Betis",🔴 ✓ Server 1 | Inter vs Real Betis | Server 1
-https://hls.live123.fans/live/4565316.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/15.png" group-title="Football | Sheffield United vs Birmingham City",🔴 ✓ Server 1 | Sheffield United vs Birmingham City | Server 1
+https://hls.live123.fans/live/4564317.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2695.png" group-title="Football | Udinese vs Padova",🔴 ✓ Server 1 | Udinese vs Padova | Server 1
+https://hls.live123.fans/live/4613271.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2885.png" group-title="Football | Deportivo Alavés vs Getafe",🔴 ✓ Server 1 | Deportivo Alavés vs Getafe | Server 1
-https://hls.live123.fans/live/4613271.m3u8
+https://hls.live123.fans/live/4565316.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/23400.png" group-title="Football | Al-Nassr vs Al-Fateh",🔴 ✓ Server 1 | Al-Nassr vs Al-Fateh | Server 1
 https://hls.live123.fans/live/4599547.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2696.png" group-title="Football | Torino vs Carrarese",🔴 ✓ Server 1 | Torino vs Carrarese | Server 1
+https://hls.live123.fans/live/4599548.m3u8

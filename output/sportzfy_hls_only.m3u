@@ -1,47 +1,47 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-16T00:14:24.167568+06:00
+# Generated: 2026-08-16T01:14:47.027533+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: all | Unverified: excluded
 # Total entries: 14
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187766.png" group-title="Cricket | Ireland vs Afghanistan",✓ ✓ Server 1 | Ireland vs Afghanistan | SP - 2
-https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/56021.png" group-title="Football | Al-Taawoun vs Al-Khaleej",🔴 ✓ Server 1 | Al-Taawoun vs Al-Khaleej | Server 2
-https://hls.live123.fans/live/4547906.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/15.png" group-title="Football | Sheffield United vs Birmingham City",🔴 ✓ Server 1 | Sheffield United vs Birmingham City | SP
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNWGRDgp/1000085356-removebg-preview.png" group-title="Cricket | Pakistan National Champions Cup vs Pakistan National Champions Cup",✓ ✓ Server 1 | Pakistan National Champions Cup vs Pakistan National Champions Cup | SP
 https://hls.live123.fans/live/4599546.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/15.png" group-title="Football | Sheffield United vs Birmingham City",🔴 ✓ Server 2 | Sheffield United vs Birmingham City | Server 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNWGRDgp/1000085356-removebg-preview.png" group-title="Cricket | Pakistan National Champions Cup vs Pakistan National Champions Cup",✓ ✓ Server 2 | Pakistan National Champions Cup vs Pakistan National Champions Cup | Server 2
+https://hls.live123.fans/live/4547906.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2673.png" group-title="Football | Borussia Dortmund vs AS Roma",🔴 ✓ Server 1 | Borussia Dortmund vs AS Roma | SP - 2
+https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2673.png" group-title="Football | Borussia Dortmund vs AS Roma",🔴 ✓ Server 2 | Borussia Dortmund vs AS Roma | Server 1
 https://hls.live123.fans/live/4563512.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2697.png" group-title="Football | Inter vs Real Betis",🔴 ✓ Server 1 | Inter vs Real Betis | Server 1
-https://hls.live123.fans/live/4565316.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/15.png" group-title="Football | Sheffield United vs Birmingham City",🔴 ✓ Server 1 | Sheffield United vs Birmingham City | Server 1
+https://hls.live123.fans/live/4564317.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2695.png" group-title="Football | Udinese vs Padova",🔴 ✓ Server 1 | Udinese vs Padova | Server 1
+https://hls.live123.fans/live/4613271.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2885.png" group-title="Football | Deportivo Alavés vs Getafe",🔴 ✓ Server 1 | Deportivo Alavés vs Getafe | Server 1
-https://hls.live123.fans/live/4613271.m3u8
+https://hls.live123.fans/live/4565316.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/23400.png" group-title="Football | Al-Nassr vs Al-Fateh",🔴 ✓ Server 1 | Al-Nassr vs Al-Fateh | Server 1
 https://hls.live123.fans/live/4599547.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2696.png" group-title="Football | Torino vs Carrarese",⏳ ✓ Server 1 | Torino vs Carrarese | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2696.png" group-title="Football | Torino vs Carrarese",🔴 ✓ Server 1 | Torino vs Carrarese | Server 1
 https://hls.live123.fans/live/4599548.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2833.png" group-title="Football | Sevilla vs Rayo Vallecano",⏳ ✓ Server 1 | Sevilla vs Rayo Vallecano | Server 1
 https://hls.live123.fans/live/4564317.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2833.png" group-title="Football | Sevilla vs Rayo Vallecano",⏳ ✓ Server 2 | Sevilla vs Rayo Vallecano | Server 1
-https://hls.live123.fans/live/4564317.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187746.png" group-title="Cricket | Australia vs Bangladesh",⏳ ✓ Server 1 | Australia vs Bangladesh | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✓ Server 1 | Sri Lanka vs India | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✓ Server 1 | Sri Lanka vs India | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✓ Server 2 | Sri Lanka vs India | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",⏳ ✓ Server 1 | Formula 1 vs Formula 1 | Server 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/WWE_SmackDown_%282024%29_Logo.svg/500px-WWE_SmackDown_%282024%29_Logo.svg.png" group-title="WWE | Friday Night SmackDown vs Friday Night SmackDown",⏳ ✓ Server 1 | Friday Night SmackDown vs Friday Night SmackDown | Server 2
 https://cdn01isb-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDExOjUzOjMxIEFNJmhhc2hfdmFsdWU9U0tlVFlPcm5zSDV0dVk4dmNuRFlYZz09JnZhbGlkbWludXRlcz02MA%3D%3D
 
 #EXTINF:-1 tvg-logo="https://iili.io/3maFhZB.png" group-title="Motorsports | MotoGP vs MotoGP",⏳ ✓ Server 1 | MotoGP vs MotoGP | Server 2
