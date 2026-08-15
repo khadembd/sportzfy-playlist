@@ -1,15 +1,15 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-15T11:17:15.934639+06:00
+# Generated: 2026-08-15T12:20:32.534014+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
 # Total entries: 3
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",🔴 ✗ Server 1 | Sri Lanka vs India | Tapmad
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",🔴 ✗ Server 2 | Sri Lanka vs India | BDIX
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",🔴 ✗ Server 1 | Sri Lanka vs India | BDIX
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",🔴 ✗ Server 2 | Sri Lanka vs India | Tapmad
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",🔴 ✗ Server 3 | Sri Lanka vs India | Low
 http://193.47.62.190/hls/KKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/

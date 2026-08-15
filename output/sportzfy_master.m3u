@@ -1,6 +1,6 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-15T11:17:15.934355+06:00
+# Generated: 2026-08-15T12:20:32.533544+06:00
 # Mode: All streams (HLS+DASH)
 # Filter: all | Unverified: excluded
 # Total entries: 13
@@ -8,19 +8,22 @@
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",🔴 ✓ Server 1 | Sri Lanka vs India | SP
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/1vdoqfiqvt/out/v1/0fbbc55b90b74ce9b62ef2cf1391951d/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187766.png" group-title="Cricket | Ireland vs Afghanistan",⏳ ✓ Server 1 | Ireland vs Afghanistan | SP - 2
-https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187766.png" group-title="Cricket | Ireland vs Afghanistan",⏳ ✓ Server 1 | Ireland vs Afghanistan | SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/135uesxk1s/out/v1/b83d0874f8ca458fa41a41df9c869753/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNWGRDgp/1000085356-removebg-preview.png" group-title="Cricket | Pakistan National Champions Cup vs Pakistan National Champions Cup",⏳ ✓ Server 1 | Pakistan National Champions Cup vs Pakistan National Champions Cup | Server 2
-https://stream.sports3.win/iptv/live/signal-4611427-35330.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187766.png" group-title="Cricket | Ireland vs Afghanistan",⏳ ✓ Server 2 | Ireland vs Afghanistan | SP - 2
+https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/38.png" group-title="Football | Chelsea vs Real Sociedad",⏳ ✓ Server 1 | Chelsea vs Real Sociedad | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2547.png" group-title="Football | 1. FC Union Berlin vs Ipswich Town",⏳ ✓ Server 1 | 1. FC Union Berlin vs Ipswich Town | SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/135uesxk1s/out/v1/b83d0874f8ca458fa41a41df9c869753/cenc.mpd
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2547.png" group-title="Football | 1. FC Union Berlin vs Ipswich Town",⏳ ✓ Server 1 | 1. FC Union Berlin vs Ipswich Town | Server 2
+https://stream.sports3.win/iptv/live/signal-4611427-35330.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2556.png" group-title="Football | 1. FSV Mainz 05 vs Bournemouth",⏳ ✓ Server 1 | 1. FSV Mainz 05 vs Bournemouth | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2556.png" group-title="Football | 1. FSV Mainz 05 vs Bournemouth",⏳ ✓ Server 1 | 1. FSV Mainz 05 vs Bournemouth | Server 2
+https://stream.sports3.win/iptv/live/signal-4611488-36148.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/WWE_RAW_Logo_2025.svg" group-title="WWE | Monday Night Raw vs Monday Night Raw",⏳ ✓ Server 1 | Monday Night Raw vs Monday Night Raw | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",⏳ ✓ Server 1 | Formula 1 vs Formula 1 | SP - 2
@@ -29,11 +32,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",⏳ ✓ Server 2 | Formula 1 vs Formula 1 | SP - 2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",⏳ ✓ Server 3 | Formula 1 vs Formula 1 | SP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/WWE_SmackDown_%282024%29_Logo.svg/500px-WWE_SmackDown_%282024%29_Logo.svg.png" group-title="WWE | Friday Night SmackDown vs Friday Night SmackDown",⏳ ✓ Server 1 | Friday Night SmackDown vs Friday Night SmackDown | SP
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/WWE_SmackDown_%282024%29_Logo.svg/500px-WWE_SmackDown_%282024%29_Logo.svg.png" group-title="WWE | Friday Night SmackDown vs Friday Night SmackDown",⏳ ✓ Server 1 | Friday Night SmackDown vs Friday Night SmackDown | Server 2
-https://stream.sports3.win/iptv/live/signal-4611488-36148.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/3maFhZB.png" group-title="Motorsports | MotoGP vs MotoGP",⏳ ✓ Server 1 | MotoGP vs MotoGP | SP - 3
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
