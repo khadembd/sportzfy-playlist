@@ -38,26 +38,26 @@
     "_verified": [
       [
         {
-          "id": "5353",
-          "label": "Hindi",
+          "id": "5355",
+          "label": "BDIX",
           "stream_type": "hls",
-          "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+          "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 2
+          "sort_order": 4
         },
         false,
         "not M3U8"
       ],
       [
         {
-          "id": "5356",
-          "label": "Low",
+          "id": "4819",
+          "label": "Tapmad",
           "stream_type": "hls",
-          "stream_url": "http://193.47.62.190/hls/KKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+          "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 4
+          "sort_order": 0
         },
         false,
         "not M3U8"
@@ -82,31 +82,40 @@
     "priority": 2,
     "_streams": [
       {
-        "id": "4594",
+        "id": "5357",
         "label": "SP",
+        "stream_type": "dash",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vsbkktsjpw/out/v1/a73da2deccb14219939a675c0b3d99cf/cenc.mpd%7Cuser-agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/149.0.0.0%20Safari/537.36",
+        "drm_kid": "97a5513689d3b2f6a4e31bfedb2ea2d6",
+        "drm_key": "19ba11eba39303ebd05986d92d974a02",
+        "sort_order": 0
+      },
+      {
+        "id": "4594",
+        "label": "SP - 2",
         "stream_type": "dash",
         "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
         "drm_kid": "fa34fa8c90336dd528c7a23871cad1fe",
         "drm_key": "552a78d1aeb74f1650d68255c5749408",
-        "sort_order": 0
+        "sort_order": 1
       },
       {
         "id": "5354",
         "label": "Sony Liv",
         "stream_type": "hls",
-        "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+        "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3%7CUser-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64;%20rv:150.0)%20Gecko/20100101%20Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
         "drm_kid": null,
         "drm_key": null,
-        "sort_order": 1
+        "sort_order": 2
       },
       {
         "id": "5353",
         "label": "Hindi",
         "stream_type": "hls",
-        "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+        "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3%7CUser-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64;%20rv:150.0)%20Gecko/20100101%20Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
         "drm_kid": null,
         "drm_key": null,
-        "sort_order": 2
+        "sort_order": 3
       },
       {
         "id": "5355",
@@ -115,7 +124,7 @@
         "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
         "drm_kid": null,
         "drm_key": null,
-        "sort_order": 3
+        "sort_order": 4
       },
       {
         "id": "5356",
@@ -124,42 +133,42 @@
         "stream_url": "http://193.47.62.190/hls/KKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "drm_kid": null,
         "drm_key": null,
-        "sort_order": 4
+        "sort_order": 5
       }
     ],
     "_verified": [
       [
         {
-          "id": "4819",
-          "label": "Tapmad",
-          "stream_type": "hls",
-          "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 0
-        },
-        false,
-        "not M3U8"
-      ],
-      [
-        {
           "id": "5354",
           "label": "Sony Liv",
           "stream_type": "hls",
-          "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+          "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3%7CUser-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64;%20rv:150.0)%20Gecko/20100101%20Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 1
+          "sort_order": 2
         },
         false,
         "not M3U8"
       ],
       [
         {
-          "id": "5355",
-          "label": "BDIX",
+          "id": "5357",
+          "label": "SP",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vsbkktsjpw/out/v1/a73da2deccb14219939a675c0b3d99cf/cenc.mpd%7Cuser-agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/149.0.0.0%20Safari/537.36",
+          "drm_kid": "97a5513689d3b2f6a4e31bfedb2ea2d6",
+          "drm_key": "19ba11eba39303ebd05986d92d974a02",
+          "sort_order": 0
+        },
+        false,
+        "HTTP 404"
+      ],
+      [
+        {
+          "id": "5353",
+          "label": "Hindi",
           "stream_type": "hls",
-          "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
+          "stream_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3%7CUser-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64;%20rv:150.0)%20Gecko/20100101%20Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
           "drm_kid": null,
           "drm_key": null,
           "sort_order": 3
@@ -169,16 +178,29 @@
       ],
       [
         {
-          "id": "4589",
-          "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/x3hwxiq65g/out/v1/548c2dbc4dec4a6594c6a244e9643d14/cenc.mpd",
-          "drm_kid": "1b103b7869788ae6748155df33f7b233",
-          "drm_key": "8b2e85a7f1e48f2f6263a3d337c655bc",
-          "sort_order": 1
+          "id": "5356",
+          "label": "Low",
+          "stream_type": "hls",
+          "stream_url": "http://193.47.62.190/hls/KKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 5
         },
-        true,
-        "OK (MPD)"
+        false,
+        "not M3U8"
+      ],
+      [
+        {
+          "id": "2433",
+          "label": "Server 1",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ldouqzq3cx/out/v1/299a89bb79504a8da60569a41e0053a0/cenc.mpd",
+          "drm_kid": "a6da7c3d90997ede43bdc0aa59a51ffd",
+          "drm_key": "7664d9539a1d217fb1bcf00b6332eed8",
+          "sort_order": 0
+        },
+        false,
+        "not MPD"
       ],
       [
         {
@@ -234,6 +256,19 @@
     "_verified": [
       [
         {
+          "id": "4594",
+          "label": "SP - 2",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "drm_kid": "fa34fa8c90336dd528c7a23871cad1fe",
+          "drm_key": "552a78d1aeb74f1650d68255c5749408",
+          "sort_order": 1
+        },
+        true,
+        "OK (MPD)"
+      ],
+      [
+        {
           "id": "5316",
           "label": "SP - 2",
           "stream_type": "hls",
@@ -244,19 +279,6 @@
         },
         true,
         "OK (master)"
-      ],
-      [
-        {
-          "id": "3923",
-          "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_kid": "0ad4080cdff8c60b1233b22087f0b340",
-          "drm_key": "285f129c5eca01dd08a5d5a14ad801c8",
-          "sort_order": 0
-        },
-        true,
-        "OK (MPD)"
       ]
     ]
   },
@@ -299,19 +321,6 @@
     "_verified": [
       [
         {
-          "id": "2433",
-          "label": "Server 1",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ldouqzq3cx/out/v1/299a89bb79504a8da60569a41e0053a0/cenc.mpd",
-          "drm_kid": "a6da7c3d90997ede43bdc0aa59a51ffd",
-          "drm_key": "7664d9539a1d217fb1bcf00b6332eed8",
-          "sort_order": 0
-        },
-        false,
-        "not MPD"
-      ],
-      [
-        {
           "id": "5310",
           "label": "SP",
           "stream_type": "dash",
@@ -322,6 +331,19 @@
         },
         false,
         "not MPD"
+      ],
+      [
+        {
+          "id": "3923",
+          "label": "SP",
+          "stream_type": "dash",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_kid": "0ad4080cdff8c60b1233b22087f0b340",
+          "drm_key": "285f129c5eca01dd08a5d5a14ad801c8",
+          "sort_order": 0
+        },
+        true,
+        "OK (MPD)"
       ]
     ]
   },
@@ -355,10 +377,10 @@
     "_verified": [
       [
         {
-          "id": "5287",
+          "id": "2364",
           "label": "Server 1",
           "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4613256.m3u8",
+          "stream_url": "https://hls.live123.fans/live/4593730.m3u8",
           "drm_kid": null,
           "drm_key": null,
           "sort_order": 0
@@ -407,13 +429,13 @@
     "_verified": [
       [
         {
-          "id": "2364",
+          "id": "2548",
           "label": "Server 1",
           "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4593730.m3u8",
+          "stream_url": "https://hls.live123.fans/live/4552154.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 0
+          "sort_order": 1
         },
         false,
         "not M3U8"
@@ -482,10 +504,10 @@
     "_verified": [
       [
         {
-          "id": "2290",
+          "id": "5287",
           "label": "Server 1",
           "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4613260.m3u8",
+          "stream_url": "https://hls.live123.fans/live/4613256.m3u8",
           "drm_kid": null,
           "drm_key": null,
           "sort_order": 0
@@ -534,13 +556,13 @@
     "_verified": [
       [
         {
-          "id": "2548",
+          "id": "2290",
           "label": "Server 1",
           "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4552154.m3u8",
+          "stream_url": "https://hls.live123.fans/live/4613260.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 1
+          "sort_order": 0
         },
         false,
         "not M3U8"
@@ -590,16 +612,16 @@
     "_verified": [
       [
         {
-          "id": "4594",
-          "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "drm_kid": "fa34fa8c90336dd528c7a23871cad1fe",
-          "drm_key": "552a78d1aeb74f1650d68255c5749408",
+          "id": "1944",
+          "label": "Server 1",
+          "stream_type": "hls",
+          "stream_url": "https://hls.live123.fans/live/4563509.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
           "sort_order": 0
         },
-        true,
-        "OK (MPD)"
+        false,
+        "not M3U8"
       ]
     ]
   },
@@ -633,16 +655,16 @@
     "_verified": [
       [
         {
-          "id": "1944",
-          "label": "Server 1",
+          "id": "2340",
+          "label": "Server 2",
           "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4563509.m3u8",
+          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 0
+          "sort_order": 2
         },
-        false,
-        "not M3U8"
+        true,
+        "OK (master)"
       ]
     ]
   },
@@ -694,42 +716,42 @@
     "_verified": [
       [
         {
-          "id": "1808",
-          "label": "Server 1",
-          "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4565316.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
+          "id": "4589",
+          "label": "SP",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/x3hwxiq65g/out/v1/548c2dbc4dec4a6594c6a244e9643d14/cenc.mpd",
+          "drm_kid": "1b103b7869788ae6748155df33f7b233",
+          "drm_key": "8b2e85a7f1e48f2f6263a3d337c655bc",
           "sort_order": 1
         },
-        false,
-        "not M3U8"
+        true,
+        "OK (MPD)"
       ],
       [
         {
-          "id": "1856",
-          "label": "LOW",
-          "stream_type": "hls",
-          "stream_url": "http://193.47.62.56/hls/ZVVVQQ.m3u8|referer=http://www.fawanews.sc/",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 2
-        },
-        false,
-        "not M3U8"
-      ],
-      [
-        {
-          "id": "2340",
-          "label": "Server 2",
-          "stream_type": "hls",
-          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 2
+          "id": "3071",
+          "label": "SP",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "drm_kid": "1a5df53609ebc9857898c490f4724918",
+          "drm_key": "77f62980d582ec541280796acf8b2d19",
+          "sort_order": 0
         },
         true,
-        "OK (master)"
+        "OK (MPD)"
+      ],
+      [
+        {
+          "id": "3510",
+          "label": "SP",
+          "stream_type": "dash",
+          "stream_url": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
+          "drm_kid": "00f9f3c0783536b8ee91704e23b78016",
+          "drm_key": "bfd04d6f544c9cc4d35cb13ab6778587",
+          "sort_order": 0
+        },
+        true,
+        "OK (MPD)"
       ]
     ]
   },
@@ -763,16 +785,16 @@
     "_verified": [
       [
         {
-          "id": "3510",
-          "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
-          "drm_kid": "00f9f3c0783536b8ee91704e23b78016",
-          "drm_key": "bfd04d6f544c9cc4d35cb13ab6778587",
-          "sort_order": 0
+          "id": "5345",
+          "label": "Server 3",
+          "stream_type": "hls",
+          "stream_url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102508&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=58eaaf823b8b124213229ac251f2efbc",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 1
         },
-        true,
-        "OK (MPD)"
+        false,
+        "not M3U8"
       ]
     ]
   },
@@ -824,10 +846,10 @@
     "_verified": [
       [
         {
-          "id": "5345",
-          "label": "Server 3",
+          "id": "1808",
+          "label": "Server 1",
           "stream_type": "hls",
-          "stream_url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102508&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=58eaaf823b8b124213229ac251f2efbc",
+          "stream_url": "https://hls.live123.fans/live/4565316.m3u8",
           "drm_kid": null,
           "drm_key": null,
           "sort_order": 1
@@ -837,29 +859,29 @@
       ],
       [
         {
-          "id": "2298",
-          "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-          "drm_kid": "fa5e8db5359fc7d1f15207d5de2a3ac4",
-          "drm_key": "78a6c0a41972dfdba2145ae0ad4bd681",
-          "sort_order": 0
+          "id": "2431",
+          "label": "BDIX",
+          "stream_type": "hls",
+          "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 1
         },
-        true,
-        "OK (MPD)"
+        false,
+        "not M3U8"
       ],
       [
         {
-          "id": "956",
-          "label": "SP - 2",
-          "stream_type": "dash",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-          "drm_kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
-          "drm_key": "ea07b87acdf2e45be824cde4a1cf3504",
-          "sort_order": 1
+          "id": "1004",
+          "label": "Server 1",
+          "stream_type": "hls",
+          "stream_url": "https://live.vivo200.com/live/sd-1-4532680.m3u8?txSecret=f427e83a952134709dafffd5f7506c67&txTime=69FE6B12",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 0
         },
-        true,
-        "OK (MPD)"
+        false,
+        "not M3U8"
       ]
     ]
   },
@@ -893,13 +915,13 @@
     "_verified": [
       [
         {
-          "id": "2431",
-          "label": "BDIX",
+          "id": "1856",
+          "label": "LOW",
           "stream_type": "hls",
-          "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
+          "stream_url": "http://193.47.62.56/hls/ZVVVQQ.m3u8|referer=http://www.fawanews.sc/",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 1
+          "sort_order": 2
         },
         false,
         "not M3U8"
@@ -954,16 +976,16 @@
     "_verified": [
       [
         {
-          "id": "3039",
+          "id": "2437",
           "label": "SP",
           "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "drm_kid": "0b42be2664d7e811d04f3e504e0924c5",
-          "drm_key": "ae24090123b8c72ac5404dc152847cb8",
+          "stream_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ez0nzel5u/out/v1/f62c7744a9f04e3fa845d956442d98ab/cenc.mpd",
+          "drm_kid": "b15cdaf34362e1491ef3ae071e7e893d",
+          "drm_key": "166810dd6b122c4219b4901eb5d1a218",
           "sort_order": 0
         },
-        true,
-        "OK (MPD)"
+        false,
+        "not MPD"
       ],
       [
         {
@@ -980,16 +1002,16 @@
       ],
       [
         {
-          "id": "3071",
-          "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm_kid": "1a5df53609ebc9857898c490f4724918",
-          "drm_key": "77f62980d582ec541280796acf8b2d19",
+          "id": "2333",
+          "label": "Server 1",
+          "stream_type": "hls",
+          "stream_url": "https://hls.live123.fans/live/4594040.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
           "sort_order": 0
         },
-        true,
-        "OK (MPD)"
+        false,
+        "not M3U8"
       ]
     ]
   },
@@ -1064,13 +1086,13 @@
       ],
       [
         {
-          "id": "1707",
-          "label": "LOW",
+          "id": "517",
+          "label": "Server 1",
           "stream_type": "hls",
-          "stream_url": "http://193.47.62.56/hls/ZVVV.m3u8|referer=http://www.fawanews.sc/",
+          "stream_url": "https://hls.live123.fans/live/4565324.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 2
+          "sort_order": 1
         },
         false,
         "not M3U8"
@@ -1107,13 +1129,13 @@
     "_verified": [
       [
         {
-          "id": "2333",
-          "label": "Server 1",
+          "id": "1707",
+          "label": "LOW",
           "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4594040.m3u8",
+          "stream_url": "http://193.47.62.56/hls/ZVVV.m3u8|referer=http://www.fawanews.sc/",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 0
+          "sort_order": 2
         },
         false,
         "not M3U8"
@@ -1168,39 +1190,39 @@
     "_verified": [
       [
         {
-          "id": "2437",
+          "id": "3039",
           "label": "SP",
           "stream_type": "dash",
-          "stream_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ez0nzel5u/out/v1/f62c7744a9f04e3fa845d956442d98ab/cenc.mpd",
-          "drm_kid": "b15cdaf34362e1491ef3ae071e7e893d",
-          "drm_key": "166810dd6b122c4219b4901eb5d1a218",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "drm_kid": "0b42be2664d7e811d04f3e504e0924c5",
+          "drm_key": "ae24090123b8c72ac5404dc152847cb8",
           "sort_order": 0
         },
-        false,
-        "not MPD"
+        true,
+        "OK (MPD)"
       ],
       [
         {
-          "id": "517",
-          "label": "Server 1",
-          "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4565324.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 1
+          "id": "2538",
+          "label": "SP",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "drm_kid": "f836853d8eac19446ed9535f5fc568b1",
+          "drm_key": "b3bc5ef00602b29abac7e482d3d9fbf3",
+          "sort_order": 0
         },
-        false,
-        "not M3U8"
+        true,
+        "OK (MPD)"
       ],
       [
         {
-          "id": "1004",
+          "id": "2113",
           "label": "Server 1",
           "stream_type": "hls",
-          "stream_url": "https://live.vivo200.com/live/sd-1-4532680.m3u8?txSecret=f427e83a952134709dafffd5f7506c67&txTime=69FE6B12",
+          "stream_url": "https://hls.live123.fans/live/4465831.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 0
+          "sort_order": 2
         },
         false,
         "not M3U8"
@@ -1312,29 +1334,29 @@
     "_verified": [
       [
         {
-          "id": "2113",
-          "label": "Server 1",
-          "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4465831.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 2
+          "id": "2298",
+          "label": "SP",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
+          "drm_kid": "fa5e8db5359fc7d1f15207d5de2a3ac4",
+          "drm_key": "78a6c0a41972dfdba2145ae0ad4bd681",
+          "sort_order": 0
         },
-        false,
-        "not M3U8"
+        true,
+        "OK (MPD)"
       ],
       [
         {
-          "id": "3514",
-          "label": "Server 1",
-          "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4613093.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 0
+          "id": "956",
+          "label": "SP - 2",
+          "stream_type": "dash",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+          "drm_kid": "03f12d6a3dbfd3a6fa7dd7f6417e0c11",
+          "drm_key": "ea07b87acdf2e45be824cde4a1cf3504",
+          "sort_order": 1
         },
-        false,
-        "not M3U8"
+        true,
+        "OK (MPD)"
       ],
       [
         {
@@ -1390,26 +1412,26 @@
     "_verified": [
       [
         {
-          "id": "2016",
+          "id": "3514",
           "label": "Server 1",
           "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4578166.m3u8",
+          "stream_url": "https://hls.live123.fans/live/4613093.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 1
+          "sort_order": 0
         },
         false,
         "not M3U8"
       ],
       [
         {
-          "id": "2538",
-          "label": "SP",
+          "id": "5364",
+          "label": "SP - 2",
           "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "drm_kid": "f836853d8eac19446ed9535f5fc568b1",
-          "drm_key": "b3bc5ef00602b29abac7e482d3d9fbf3",
-          "sort_order": 0
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm_kid": "cc91508324ce9dcaf425a43d58f1d9d4",
+          "drm_key": "643e5474d9edd87c7d9091c8c97994ca",
+          "sort_order": 1
         },
         true,
         "OK (MPD)"
@@ -1468,16 +1490,16 @@
       ],
       [
         {
-          "id": "5364",
-          "label": "SP - 2",
-          "stream_type": "dash",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_kid": "cc91508324ce9dcaf425a43d58f1d9d4",
-          "drm_key": "643e5474d9edd87c7d9091c8c97994ca",
+          "id": "2016",
+          "label": "Server 1",
+          "stream_type": "hls",
+          "stream_url": "https://hls.live123.fans/live/4578166.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
           "sort_order": 1
         },
-        true,
-        "OK (MPD)"
+        false,
+        "not M3U8"
       ]
     ]
   },
@@ -1583,6 +1605,19 @@
       ],
       [
         {
+          "id": "876",
+          "label": "SP",
+          "stream_type": "hls",
+          "stream_url": "https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 1
+        },
+        false,
+        "not M3U8"
+      ],
+      [
+        {
           "id": "5270",
           "label": "SP",
           "stream_type": "dash",
@@ -1593,19 +1628,6 @@
         },
         true,
         "OK (MPD)"
-      ],
-      [
-        {
-          "id": "5346",
-          "label": "Server 2",
-          "stream_type": "hls",
-          "stream_url": "https://cdn01isb-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDExOjUzOjMxIEFNJmhhc2hfdmFsdWU9U0tlVFlPcm5zSDV0dVk4dmNuRFlYZz09JnZhbGlkbWludXRlcz02MA%3D%3D",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 0
-        },
-        true,
-        "OK (master)"
       ]
     ]
   },
@@ -1648,6 +1670,19 @@
     "_verified": [
       [
         {
+          "id": "3539",
+          "label": "SP - 2",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "drm_kid": "14eeabf30c14b7fbf3008c03099ce011",
+          "drm_key": "17d2ac8dbc5429bd70af3433aa12158d",
+          "sort_order": 1
+        },
+        true,
+        "OK (MPD)"
+      ],
+      [
+        {
           "id": "5034",
           "label": "SP",
           "stream_type": "dash",
@@ -1658,19 +1693,6 @@
         },
         false,
         "not MPD"
-      ],
-      [
-        {
-          "id": "5318",
-          "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/quxkswiof8/out/v1/fedc63e9309843daa3d77c9e8725fe9b/cenc.mpd",
-          "drm_kid": "b314d10a2f70eee1c346b60a2f49fb8e",
-          "drm_key": "f42ce2e9eed095d4d4ffd004ad3e5c21",
-          "sort_order": 0
-        },
-        true,
-        "OK (MPD)"
       ]
     ]
   },
@@ -1731,32 +1753,6 @@
     "_verified": [
       [
         {
-          "id": "5318",
-          "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/quxkswiof8/out/v1/fedc63e9309843daa3d77c9e8725fe9b/cenc.mpd",
-          "drm_kid": "b314d10a2f70eee1c346b60a2f49fb8e",
-          "drm_key": "f42ce2e9eed095d4d4ffd004ad3e5c21",
-          "sort_order": 0
-        },
-        true,
-        "OK (MPD)"
-      ],
-      [
-        {
-          "id": "3539",
-          "label": "SP - 2",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "drm_kid": "14eeabf30c14b7fbf3008c03099ce011",
-          "drm_key": "17d2ac8dbc5429bd70af3433aa12158d",
-          "sort_order": 1
-        },
-        true,
-        "OK (MPD)"
-      ],
-      [
-        {
           "id": "5321",
           "label": "SP",
           "stream_type": "hls",
@@ -1770,16 +1766,42 @@
       ],
       [
         {
-          "id": "4534",
-          "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "drm_kid": "f3df7843080ae743bf865dc5fdf64c68",
-          "drm_key": "567c863bc12eb74788ea74888c042e1b",
+          "id": "5346",
+          "label": "Server 2",
+          "stream_type": "hls",
+          "stream_url": "https://cdn01isb-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDExOjUzOjMxIEFNJmhhc2hfdmFsdWU9U0tlVFlPcm5zSDV0dVk4dmNuRFlYZz09JnZhbGlkbWludXRlcz02MA%3D%3D",
+          "drm_kid": null,
+          "drm_key": null,
           "sort_order": 0
         },
         true,
-        "OK (MPD)"
+        "OK (master)"
+      ],
+      [
+        {
+          "id": "2580",
+          "label": "Server 1",
+          "stream_type": "hls",
+          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 3
+        },
+        true,
+        "OK (master)"
+      ],
+      [
+        {
+          "id": "5348",
+          "label": "Server 2",
+          "stream_type": "hls",
+          "stream_url": "https://stream.sports3.win/iptv/live/signal-4613093-36076.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 1
+        },
+        false,
+        "not M3U8"
       ]
     ]
   },
@@ -1831,10 +1853,23 @@
     "_verified": [
       [
         {
-          "id": "876",
-          "label": "SP",
+          "id": "2580",
+          "label": "Server 1",
           "stream_type": "hls",
-          "stream_url": "https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 3
+        },
+        true,
+        "OK (master)"
+      ],
+      [
+        {
+          "id": "2197",
+          "label": "SP - 2",
+          "stream_type": "hls",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
           "drm_kid": null,
           "drm_key": null,
           "sort_order": 1
@@ -1844,29 +1879,16 @@
       ],
       [
         {
-          "id": "2580",
-          "label": "Server 1",
-          "stream_type": "hls",
-          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 3
+          "id": "4534",
+          "label": "SP",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm_kid": "f3df7843080ae743bf865dc5fdf64c68",
+          "drm_key": "567c863bc12eb74788ea74888c042e1b",
+          "sort_order": 0
         },
         true,
-        "OK (master)"
-      ],
-      [
-        {
-          "id": "2580",
-          "label": "Server 1",
-          "stream_type": "hls",
-          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 3
-        },
-        true,
-        "OK (master)"
+        "OK (MPD)"
       ]
     ]
   },
@@ -1909,29 +1931,29 @@
     "_verified": [
       [
         {
-          "id": "2197",
+          "id": "1326",
           "label": "SP - 2",
-          "stream_type": "hls",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
+          "drm_kid": "e03f302ec4dabcccca82cc9f76731ec9",
+          "drm_key": "53ea1027d2bf2893a552cf15bc0366de",
           "sort_order": 1
         },
-        false,
-        "not M3U8"
+        true,
+        "OK (MPD)"
       ],
       [
         {
-          "id": "5348",
+          "id": "2698",
           "label": "Server 2",
           "stream_type": "hls",
-          "stream_url": "https://stream.sports3.win/iptv/live/signal-4613093-36076.m3u8",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 1
+          "sort_order": 2
         },
-        false,
-        "not M3U8"
+        true,
+        "OK (media)"
       ]
     ]
   },
@@ -1983,32 +2005,6 @@
     "_verified": [
       [
         {
-          "id": "1326",
-          "label": "SP - 2",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
-          "drm_kid": "e03f302ec4dabcccca82cc9f76731ec9",
-          "drm_key": "53ea1027d2bf2893a552cf15bc0366de",
-          "sort_order": 1
-        },
-        true,
-        "OK (MPD)"
-      ],
-      [
-        {
-          "id": "2698",
-          "label": "Server 2",
-          "stream_type": "hls",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 2
-        },
-        true,
-        "OK (media)"
-      ],
-      [
-        {
           "id": "1327",
           "label": "SP - 3",
           "stream_type": "dash",
@@ -2016,6 +2012,32 @@
           "drm_kid": "7eea72d6075245a99ee3255603d58853",
           "drm_key": "6848ef60575579bf4d415db1032153ed",
           "sort_order": 2
+        },
+        true,
+        "OK (MPD)"
+      ],
+      [
+        {
+          "id": "5318",
+          "label": "SP",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/quxkswiof8/out/v1/fedc63e9309843daa3d77c9e8725fe9b/cenc.mpd",
+          "drm_kid": "b314d10a2f70eee1c346b60a2f49fb8e",
+          "drm_key": "f42ce2e9eed095d4d4ffd004ad3e5c21",
+          "sort_order": 0
+        },
+        true,
+        "OK (MPD)"
+      ],
+      [
+        {
+          "id": "5318",
+          "label": "SP",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/quxkswiof8/out/v1/fedc63e9309843daa3d77c9e8725fe9b/cenc.mpd",
+          "drm_kid": "b314d10a2f70eee1c346b60a2f49fb8e",
+          "drm_key": "f42ce2e9eed095d4d4ffd004ad3e5c21",
+          "sort_order": 0
         },
         true,
         "OK (MPD)"
