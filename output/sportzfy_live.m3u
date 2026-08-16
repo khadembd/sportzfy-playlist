@@ -1,6 +1,9 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-16T22:13:39.414425+06:00
+# Generated: 2026-08-16T23:12:08.144424+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 0
+# Total entries: 1
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/44.png" group-title="Football | Liverpool FC vs Como",🔴 ✓ Server 1 | Liverpool FC vs Como | Server 1
+https://hls.live123.fans/live/4619792.m3u8
