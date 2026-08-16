@@ -1,30 +1,27 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-16T21:12:07.719311+06:00
+# Generated: 2026-08-16T22:13:39.413412+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: all | Unverified: excluded
-# Total entries: 8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2530.png" group-title="Football | FC Schalke 04 vs Real Madrid",🔴 ✓ Server 1 | FC Schalke 04 vs Real Madrid | Server 2
-https://play.aarray.cn/rrty/sd-1-4611941_gqzm.m3u8?auth_key=1786894371-0-0-088b53ef61c15aa4c7e56060ce12c239
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1974.png" group-title="Football | Vasco da Gama vs Santos",⏳ ✓ Server 1 | Vasco da Gama vs Santos | Server 1
-https://live.666666.zip/live/4563514.m3u8
+# Total entries: 7
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187825.png" group-title="Cricket | Saint Lucia Kings vs Barbados Tridents",⏳ ✓ Server 1 | Saint Lucia Kings vs Barbados Tridents | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
 
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✓ Server 1 | Sri Lanka vs India | Server 2
+https://cdn01isb-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDExOjUzOjMxIEFNJmhhc2hfdmFsdWU9U0tlVFlPcm5zSDV0dVk4dmNuRFlYZz09JnZhbGlkbWludXRlcz02MA%3D%3D
+
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1220595.png" group-title="Cricket | Jamaica Kingsmen vs St Kitts and Nevis Patriots",⏳ ✓ Server 1 | Jamaica Kingsmen vs St Kitts and Nevis Patriots | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",⏳ ✓ Server 1 | Formula 1 vs Formula 1 | Server 2
-https://cdn01isb-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDExOjUzOjMxIEFNJmhhc2hfdmFsdWU9U0tlVFlPcm5zSDV0dVk4dmNuRFlYZz09JnZhbGlkbWludXRlcz02MA%3D%3D
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/WWE_SmackDown_%282024%29_Logo.svg/500px-WWE_SmackDown_%282024%29_Logo.svg.png" group-title="WWE | Friday Night SmackDown vs Friday Night SmackDown",⏳ ✓ Server 1 | Friday Night SmackDown vs Friday Night SmackDown | Server 1
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",⏳ ✓ Server 1 | Formula 1 vs Formula 1 | Server 1
 http://tvsen5.aynascope.net/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187746.png" group-title="Cricket | Australia vs Bangladesh",⏳ ✓ Server 1 | Australia vs Bangladesh | Server 1
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/WWE_SmackDown_%282024%29_Logo.svg/500px-WWE_SmackDown_%282024%29_Logo.svg.png" group-title="WWE | Friday Night SmackDown vs Friday Night SmackDown",⏳ ✓ Server 1 | Friday Night SmackDown vs Friday Night SmackDown | Server 2
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/3maFhZB.png" group-title="Motorsports | MotoGP vs MotoGP",⏳ ✓ Server 1 | MotoGP vs MotoGP | Server 1
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/3maFhZB.png" group-title="Motorsports | MotoGP vs MotoGP",⏳ ✓ Server 2 | MotoGP vs MotoGP | Server 2
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8
+https://live.666666.zip/live/4563514.m3u8
