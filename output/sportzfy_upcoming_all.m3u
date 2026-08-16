@@ -1,47 +1,44 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-17T04:11:29.968642+06:00
+# Generated: 2026-08-17T05:11:08.793164+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: upcoming | Unverified: included
 # Total entries: 19
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187825.png" group-title="Cricket | Saint Lucia Kings vs Barbados Tridents",⏳ ✗ Server 1 | Saint Lucia Kings vs Barbados Tridents | SonyLIV
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✗ Server 1 | Sri Lanka vs India | SonyLIV
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786890029~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a26f359b47a9ebd43ae7ad2721d44fa0a30796e31b7a25524d9b63fdad6e6a7f
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✗ Server 1 | Sri Lanka vs India | Low
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✗ Server 2 | Sri Lanka vs India | Low
 http://193.47.62.190/hls/NNNE.m3u8|referer=http%3A%2F%2Fwww.fawanews.sc%2F&origin=http%3A%2F%2Fwww.fawanews.sc&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F128.0.0.0%20Safari%2F537.36
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✗ Server 2 | Sri Lanka vs India | Server 1
-https://live.vivo200.com/live/sd-1-4532680.m3u8?txSecret=f427e83a952134709dafffd5f7506c67&txTime=69FE6B12
-
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✓ Server 3 | Sri Lanka vs India | Server 1
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNWGRDgp/1000085356-removebg-preview.png" group-title="Cricket | Pakistan National Champions Cup vs Pakistan National Champions Cup",⏳ ✓ Server 1 | Pakistan National Champions Cup vs Pakistan National Champions Cup | Server 1
 https://hls.live123.fans/live/4564322.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNWGRDgp/1000085356-removebg-preview.png" group-title="Cricket | Pakistan National Champions Cup vs Pakistan National Champions Cup",⏳ ✓ Server 1 | Pakistan National Champions Cup vs Pakistan National Champions Cup | Server 1
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2737.png" group-title="Football | Pisa vs Empoli",⏳ ✗ Server 1 | Pisa vs Empoli | Server 1
+https://live.vivo200.com/live/sd-1-4532680.m3u8?txSecret=f427e83a952134709dafffd5f7506c67&txTime=69FE6B12
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2737.png" group-title="Football | Pisa vs Empoli",⏳ ✗ Server 2 | Pisa vs Empoli | Server 1
 https://hls.live123.fans/live/4613094.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/853566.png" group-title="Football | Al Anwar vs Al-Ahli",⏳ ✗ Server 1 | Al Anwar vs Al-Ahli | Server 3
 https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102508&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=58eaaf823b8b124213229ac251f2efbc
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2793.png" group-title="Football | Sassuolo vs Cesena",⏳ ✗ Server 1 | Sassuolo vs Cesena | Server 2
-https://stream.sports3.win/iptv/live/signal-4613094-36079.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2793.png" group-title="Football | Sassuolo vs Cesena",⏳ ✗ Server 2 | Sassuolo vs Cesena | Server 1
-https://hls.live123.fans/live/4578166.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2761.png" group-title="Football | Cremonese vs Sampdoria",⏳ ✓ Server 1 | Cremonese vs Sampdoria | SP
+https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2832.png" group-title="Football | Deportivo de A Coruña vs Elche",⏳ ✗ Server 1 | Deportivo de A Coruña vs Elche | BDIX
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2832.png" group-title="Football | Deportivo de A Coruña vs Elche",⏳ ✓ Server 2 | Deportivo de A Coruña vs Elche | SP
-https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2832.png" group-title="Football | Deportivo de A Coruña vs Elche",⏳ ✗ Server 2 | Deportivo de A Coruña vs Elche | Server 1
+https://hls.live123.fans/live/4578166.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/WWE_RAW_Logo_2025.svg" group-title="WWE | Monday Night Raw vs Monday Night Raw",⏳ ✗ Server 1 | Monday Night Raw vs Monday Night Raw | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/36365.png" group-title="Football | Casa Pia vs Benfica",⏳ ✗ Server 1 | Casa Pia vs Benfica | SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/WWE_RAW_Logo_2025.svg" group-title="WWE | Monday Night Raw vs Monday Night Raw",⏳ ✗ Server 2 | Monday Night Raw vs Monday Night Raw | Tapmad
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/WWE_RAW_Logo_2025.svg" group-title="WWE | Monday Night Raw vs Monday Night Raw",⏳ ✗ Server 1 | Monday Night Raw vs Monday Night Raw | Tapmad
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1220595.png" group-title="Cricket | Jamaica Kingsmen vs St Kitts and Nevis Patriots",⏳ ✓ Server 1 | Jamaica Kingsmen vs St Kitts and Nevis Patriots | Server 1
@@ -50,11 +47,14 @@ http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1220595.png" group-title="Cricket | Jamaica Kingsmen vs St Kitts and Nevis Patriots",⏳ ✓ Server 2 | Jamaica Kingsmen vs St Kitts and Nevis Patriots | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",⏳ ✗ Server 1 | Formula 1 vs Formula 1 | SP - 2
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1220595.png" group-title="Cricket | Jamaica Kingsmen vs St Kitts and Nevis Patriots",⏳ ✗ Server 3 | Jamaica Kingsmen vs St Kitts and Nevis Patriots | Server 2
+https://stream.sports3.win/iptv/live/signal-4613094-36079.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187746.png" group-title="Cricket | Australia vs Bangladesh",⏳ ✓ Server 1 | Australia vs Bangladesh | Server 2
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",⏳ ✓ Server 1 | Formula 1 vs Formula 1 | Server 2
 https://cdn01isb-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDExOjUzOjMxIEFNJmhhc2hfdmFsdWU9U0tlVFlPcm5zSDV0dVk4dmNuRFlYZz09JnZhbGlkbWludXRlcz02MA%3D%3D
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187746.png" group-title="Cricket | Australia vs Bangladesh",⏳ ✗ Server 1 | Australia vs Bangladesh | SP - 2
+https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/WWE_SmackDown_%282024%29_Logo.svg/500px-WWE_SmackDown_%282024%29_Logo.svg.png" group-title="WWE | Friday Night SmackDown vs Friday Night SmackDown",⏳ ✓ Server 1 | Friday Night SmackDown vs Friday Night SmackDown | Server 2
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8
