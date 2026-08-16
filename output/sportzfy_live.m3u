@@ -1,6 +1,9 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-16T09:40:28.982907+06:00
+# Generated: 2026-08-16T10:26:33.060829+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 0
+# Total entries: 1
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",🔴 ✓ Server 1 | Sri Lanka vs India | SP - 2
+https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
