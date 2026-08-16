@@ -1,9 +1,24 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-17T00:14:08.241702+06:00
+# Generated: 2026-08-17T01:14:35.993546+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 1
+# Total entries: 6
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/377176.png" group-title="Cricket | Trent Rockets vs Manchester Super Giants",🔴 ✗ Server 1 | Trent Rockets vs Manchester Super Giants | BDIX
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/44.png" group-title="Football | Liverpool FC vs Como",🔴 ✓ Server 1 | Liverpool FC vs Como | Server 1
 https://hls.live123.fans/live/4619792.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/44.png" group-title="Football | Liverpool FC vs Como",🔴 ✗ Server 2 | Liverpool FC vs Como | LOW
+http://193.47.62.51/hls/T5555.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1648.png" group-title="Football | RC Lens vs Paris Saint-Germain",🔴 ✓ Server 1 | RC Lens vs Paris Saint-Germain | Server 1
+https://hls.live123.fans/live/4465793.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2699.png" group-title="Football | Lazio vs Mantova",🔴 ✗ Server 1 | Lazio vs Mantova | BDIX
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2699.png" group-title="Football | Lazio vs Mantova",🔴 ✓ Server 2 | Lazio vs Mantova | Server 1
+https://hls.live123.fans/live/4564322.m3u8
