@@ -1,9 +1,21 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-16T20:14:18.672729+06:00
+# Generated: 2026-08-16T21:12:07.721709+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 1
+# Total entries: 5
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/42.png" group-title="Football | Arsenal vs Manchester City",🔴 ✗ Server 1 | Arsenal vs Manchester City | Server 1
-https://hls.live123.fans/live/4593730.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2530.png" group-title="Football | FC Schalke 04 vs Real Madrid",🔴 ✗ Server 1 | FC Schalke 04 vs Real Madrid | Server 2
+https://live.vivo200.com/live/sd-1-4594044.m3u8?txSecret=a44758a9df37e0dba98935ebec4b313c&txTime=6A81DBB6|Referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2530.png" group-title="Football | FC Schalke 04 vs Real Madrid",🔴 ✗ Server 2 | FC Schalke 04 vs Real Madrid | Server 1
+https://live.vivo200.com/live/sd-1-4532680.m3u8?txSecret=f427e83a952134709dafffd5f7506c67&txTime=69FE6B12
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2530.png" group-title="Football | FC Schalke 04 vs Real Madrid",🔴 ✓ Server 3 | FC Schalke 04 vs Real Madrid | Server 2
+https://play.aarray.cn/rrty/sd-1-4611941_gqzm.m3u8?auth_key=1786894371-0-0-088b53ef61c15aa4c7e56060ce12c239
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/39.png" group-title="Football | Newcastle United vs RC Strasbourg",🔴 ✗ Server 1 | Newcastle United vs RC Strasbourg | Server 1
+https://chatgpt.hereisman.net/playlist/54751/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/6.png" group-title="Football | Burnley vs West Ham United",🔴 ✗ Server 1 | Burnley vs West Ham United | BDIX
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
