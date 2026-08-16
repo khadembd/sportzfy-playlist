@@ -1,9 +1,9 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-16T19:24:13.853830+06:00
+# Generated: 2026-08-16T20:14:18.672729+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
 # Total entries: 1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNWGRDgp/1000085356-removebg-preview.png" group-title="Cricket | Pakistan National Champions Cup vs Pakistan National Champions Cup",🔴 ✗ Server 1 | Pakistan National Champions Cup vs Pakistan National Champions Cup | BDIX
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/42.png" group-title="Football | Arsenal vs Manchester City",🔴 ✗ Server 1 | Arsenal vs Manchester City | Server 1
+https://hls.live123.fans/live/4593730.m3u8
