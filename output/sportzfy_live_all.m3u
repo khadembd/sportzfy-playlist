@@ -1,12 +1,24 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-16T05:12:28.753485+06:00
+# Generated: 2026-08-16T06:40:31.523326+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 2
+# Total entries: 6
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/461782.png" group-title="UFC | Islam Makhachev vs Ian Machado Garry",🔴 ✗ Server 1 | Islam Makhachev vs Ian Machado Garry | BDIX
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/461782.png" group-title="UFC | Islam Makhachev vs Ian Machado Garry",🔴 ✗ Server 1 | Islam Makhachev vs Ian Machado Garry | SonyLIV
+https://sonymtmnew.akamaized.net/hls/live/20000376/UFC_UFC_1508/ENG/master.m3u8?hdnea=exp=1786855833~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=51c3ab7efeff12bb5d6379cb8a258bf6ce53f8d45681ca5d2dbea6c701e2ebcd
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/461782.png" group-title="UFC | Islam Makhachev vs Ian Machado Garry",🔴 ✗ Server 2 | Islam Makhachev vs Ian Machado Garry | BDIX
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/461782.png" group-title="UFC | Islam Makhachev vs Ian Machado Garry",🔴 ✗ Server 2 | Islam Makhachev vs Ian Machado Garry | Tapmad
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM/master.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/461782.png" group-title="UFC | Islam Makhachev vs Ian Machado Garry",🔴 ✗ Server 3 | Islam Makhachev vs Ian Machado Garry | Tapmad
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187746.png" group-title="Cricket | Australia vs Bangladesh",🔴 ✗ Server 1 | Australia vs Bangladesh | BDIX
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/337612.png" group-title="Football | Nashville SC vs Inter Miami CF",🔴 ✗ Server 1 | Nashville SC vs Inter Miami CF | Sony Liv
+https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/337612.png" group-title="Football | Nashville SC vs Inter Miami CF",🔴 ✗ Server 2 | Nashville SC vs Inter Miami CF | Hindi
+https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
