@@ -1,12 +1,12 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-17T22:15:55.940337+06:00
+# Generated: 2026-08-17T23:18:19.812359+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
 # Total entries: 2
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/853566.png" group-title="Football | Al Anwar vs Al-Ahli",🔴 ✗ Server 1 | Al Anwar vs Al-Ahli | Server 1
-https://hls.live123.fans/live/4564324.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/168072.png" group-title="Football | Al Tai vs Al-Qadsiah",🔴 ✓ Server 1 | Al Tai vs Al-Qadsiah | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2793.png" group-title="Football | Sassuolo vs Cesena",🔴 ✓ Server 1 | Sassuolo vs Cesena | Server 1
 https://hls.live123.fans/live/4570060.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2793.png" group-title="Football | Sassuolo vs Cesena",🔴 ✓ Server 2 | Sassuolo vs Cesena | Server 1
+https://hls.live123.fans/live/4570053.m3u8
