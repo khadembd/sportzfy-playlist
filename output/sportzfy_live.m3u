@@ -1,15 +1,18 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-18T02:15:47.925527+06:00
+# Generated: 2026-08-18T03:16:59.226883+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 3
+# Total entries: 4
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2832.png" group-title="Football | Deportivo de A Coruña vs Elche",🔴 ✓ Server 1 | Deportivo de A Coruña vs Elche | Server 1
-https://hls.live123.fans/live/4564326.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2715.png" group-title="Football | Palermo vs Lecce",🔴 ✓ Server 1 | Palermo vs Lecce | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2832.png" group-title="Football | Deportivo de A Coruña vs Elche",🔴 ✓ Server 1 | Deportivo de A Coruña vs Elche | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2715.png" group-title="Football | Palermo vs Lecce",🔴 ✓ Server 1 | Palermo vs Lecce | Server 1
+https://hls.live123.fans/live/4564326.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2715.png" group-title="Football | Palermo vs Lecce",🔴 ✓ Server 2 | Palermo vs Lecce | Server 1
 https://hls.live123.fans/live/4578163.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/36365.png" group-title="Football | Casa Pia vs Benfica",🔴 ✓ Server 1 | Casa Pia vs Benfica | Server 1
+https://hls.live123.fans/live/4564325.m3u8
