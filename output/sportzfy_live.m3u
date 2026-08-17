@@ -1,6 +1,9 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-17T21:16:43.471216+06:00
+# Generated: 2026-08-17T22:15:55.940035+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 0
+# Total entries: 1
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/168072.png" group-title="Football | Al Tai vs Al-Qadsiah",🔴 ✓ Server 1 | Al Tai vs Al-Qadsiah | Server 1
+https://hls.live123.fans/live/4570060.m3u8
