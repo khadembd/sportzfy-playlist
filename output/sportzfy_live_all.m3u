@@ -1,18 +1,21 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-18T00:24:06.630109+06:00
+# Generated: 2026-08-18T01:21:25.591362+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 4
+# Total entries: 5
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/274374.png" group-title="Football | Al Zulfi vs Al-Riyadh",🔴 ✓ Server 1 | Al Zulfi vs Al-Riyadh | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2715.png" group-title="Football | Palermo vs Lecce",🔴 ✓ Server 1 | Palermo vs Lecce | Server 1
+https://hls.live123.fans/live/4564325.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2715.png" group-title="Football | Palermo vs Lecce",🔴 ✓ Server 2 | Palermo vs Lecce | Server 1
+https://hls.live123.fans/live/4564326.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2715.png" group-title="Football | Palermo vs Lecce",🔴 ✓ Server 3 | Palermo vs Lecce | Server 1
 https://hls.live123.fans/live/4570035.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2793.png" group-title="Football | Sassuolo vs Cesena",🔴 ✓ Server 1 | Sassuolo vs Cesena | Server 1
-https://hls.live123.fans/live/4570053.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/36365.png" group-title="Football | Casa Pia vs Benfica",🔴 ✓ Server 1 | Casa Pia vs Benfica | SP
+https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2793.png" group-title="Football | Sassuolo vs Cesena",🔴 ✓ Server 2 | Sassuolo vs Cesena | Server 1
-https://hls.live123.fans/live/4570060.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/56031.png" group-title="Football | Al Raed vs Al-Hilal",🔴 ✓ Server 1 | Al Raed vs Al-Hilal | Server 1
-https://hls.live123.fans/live/4564324.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/36365.png" group-title="Football | Casa Pia vs Benfica",🔴 ✓ Server 2 | Casa Pia vs Benfica | Server 1
+https://hls.live123.fans/live/4578163.m3u8
