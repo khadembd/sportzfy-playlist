@@ -1,6 +1,6 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-17T10:32:49.594443+06:00
+# Generated: 2026-08-17T11:27:18.465398+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: all | Unverified: included
 # Total entries: 17
@@ -14,44 +14,44 @@ http://dai.google.com/ssai/event/MArqTlj6SOeNU3ZO3-0i0Q/master.m3u8|User-Agent=M
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNWGRDgp/1000085356-removebg-preview.png" group-title="Cricket | Pakistan National Champions Cup vs Pakistan National Champions Cup",⏳ ✗ Server 2 | Pakistan National Champions Cup vs Pakistan National Champions Cup | SonyLIV
 https://dai.google.com/ssai/event/DgeLzKxsSMuwfRa8znq4RQ/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0364963809a65d36dbd35c6ce8841b87-1786852462979
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2737.png" group-title="Football | Pisa vs Empoli",⏳ ✗ Server 1 | Pisa vs Empoli | Server 3
-https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102508&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=58eaaf823b8b124213229ac251f2efbc
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2737.png" group-title="Football | Pisa vs Empoli",⏳ ✗ Server 2 | Pisa vs Empoli | Server 2
-https://stream.sports3.win/iptv/live/signal-4613094-36079.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2793.png" group-title="Football | Sassuolo vs Cesena",⏳ ✗ Server 1 | Sassuolo vs Cesena | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2737.png" group-title="Football | Pisa vs Empoli",⏳ ✗ Server 1 | Pisa vs Empoli | Server 1
 https://hls.live123.fans/live/4564322.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2793.png" group-title="Football | Sassuolo vs Cesena",⏳ ✗ Server 2 | Sassuolo vs Cesena | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2737.png" group-title="Football | Pisa vs Empoli",⏳ ✗ Server 2 | Pisa vs Empoli | Server 1
 https://hls.live123.fans/live/4613094.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2761.png" group-title="Football | Cremonese vs Sampdoria",⏳ ✓ Server 1 | Cremonese vs Sampdoria | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2793.png" group-title="Football | Sassuolo vs Cesena",⏳ ✗ Server 1 | Sassuolo vs Cesena | Server 2
+https://stream.sports3.win/iptv/live/signal-4613094-36079.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2761.png" group-title="Football | Cremonese vs Sampdoria",⏳ ✗ Server 1 | Cremonese vs Sampdoria | Server 3
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102508&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=58eaaf823b8b124213229ac251f2efbc
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2761.png" group-title="Football | Cremonese vs Sampdoria",⏳ ✓ Server 2 | Cremonese vs Sampdoria | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2832.png" group-title="Football | Deportivo de A Coruña vs Elche",⏳ ✗ Server 1 | Deportivo de A Coruña vs Elche | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2832.png" group-title="Football | Deportivo de A Coruña vs Elche",⏳ ✗ Server 1 | Deportivo de A Coruña vs Elche | BDIX
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2832.png" group-title="Football | Deportivo de A Coruña vs Elche",⏳ ✗ Server 2 | Deportivo de A Coruña vs Elche | Server 1
 https://hls.live123.fans/live/4578166.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2832.png" group-title="Football | Deportivo de A Coruña vs Elche",⏳ ✗ Server 2 | Deportivo de A Coruña vs Elche | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/36365.png" group-title="Football | Casa Pia vs Benfica",⏳ ✗ Server 1 | Casa Pia vs Benfica | SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/36365.png" group-title="Football | Casa Pia vs Benfica",⏳ ✗ Server 1 | Casa Pia vs Benfica | BDIX
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/WWE_RAW_Logo_2025.svg" group-title="WWE | Monday Night Raw vs Monday Night Raw",⏳ ✗ Server 1 | Monday Night Raw vs Monday Night Raw | Tapmad
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1220595.png" group-title="Cricket | Jamaica Kingsmen vs St Kitts and Nevis Patriots",⏳ ✓ Server 1 | Jamaica Kingsmen vs St Kitts and Nevis Patriots | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1220595.png" group-title="Cricket | Jamaica Kingsmen vs St Kitts and Nevis Patriots",⏳ ✓ Server 1 | Jamaica Kingsmen vs St Kitts and Nevis Patriots | Server 1
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1220595.png" group-title="Cricket | Jamaica Kingsmen vs St Kitts and Nevis Patriots",⏳ ✓ Server 2 | Jamaica Kingsmen vs St Kitts and Nevis Patriots | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",⏳ ✗ Server 1 | Formula 1 vs Formula 1 | SP - 2
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187746.png" group-title="Cricket | Australia vs Bangladesh",⏳ ✓ Server 1 | Australia vs Bangladesh | Server 1
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/WWE_SmackDown_%282024%29_Logo.svg/500px-WWE_SmackDown_%282024%29_Logo.svg.png" group-title="WWE | Friday Night SmackDown vs Friday Night SmackDown",⏳ ✓ Server 1 | Friday Night SmackDown vs Friday Night SmackDown | Server 2
 https://cdn01isb-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDExOjUzOjMxIEFNJmhhc2hfdmFsdWU9U0tlVFlPcm5zSDV0dVk4dmNuRFlYZz09JnZhbGlkbWludXRlcz02MA%3D%3D
 
-#EXTINF:-1 tvg-logo="https://iili.io/3maFhZB.png" group-title="Motorsports | MotoGP vs MotoGP",⏳ ✓ Server 1 | MotoGP vs MotoGP | Server 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/WWE_SmackDown_%282024%29_Logo.svg/500px-WWE_SmackDown_%282024%29_Logo.svg.png" group-title="WWE | Friday Night SmackDown vs Friday Night SmackDown",⏳ ✓ Server 2 | Friday Night SmackDown vs Friday Night SmackDown | Server 2
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8
