@@ -1,12 +1,6 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-17T08:14:16.545035+06:00
+# Generated: 2026-08-17T09:40:55.544617+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 2
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187825.png" group-title="Cricket | Saint Lucia Kings vs Barbados Tridents",🔴 ✗ Server 1 | Saint Lucia Kings vs Barbados Tridents | BDIX
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187825.png" group-title="Cricket | Saint Lucia Kings vs Barbados Tridents",🔴 ✗ Server 2 | Saint Lucia Kings vs Barbados Tridents | BDIX
-https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
+# Total entries: 0
