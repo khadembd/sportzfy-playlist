@@ -1,9 +1,15 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-18T09:37:10.970726+06:00
+# Generated: 2026-08-18T10:26:42.107282+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 1
+# Total entries: 3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/WWE_RAW_Logo_2025.svg" group-title="WWE | Monday Night Raw vs Monday Night Raw",🔴 ✓ Server 1 | Monday Night Raw vs Monday Night Raw | SP
-https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",🔴 ✗ Server 1 | Sri Lanka vs India | Server 1
+https://hls.live123.fans/live/4570053.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",🔴 ✗ Server 2 | Sri Lanka vs India | Hindi
+http://dai.google.com/ssai/event/MArqTlj6SOeNU3ZO3-0i0Q/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",🔴 ✗ Server 3 | Sri Lanka vs India | Server 1
+https://hls.live123.fans/live/4570037.m3u8
