@@ -1,12 +1,12 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-18T17:16:36.512913+06:00
+# Generated: 2026-08-18T18:24:09.572840+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
 # Total entries: 2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNWGRDgp/1000085356-removebg-preview.png" group-title="Cricket | Pakistan National Champions Cup vs Pakistan National Champions Cup",🔴 ✗ Server 1 | Pakistan National Champions Cup vs Pakistan National Champions Cup | Server 1
-https://hls.live123.fans/live/4570053.m3u8
+https://hls.live123.fans/live/4570037.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNWGRDgp/1000085356-removebg-preview.png" group-title="Cricket | Pakistan National Champions Cup vs Pakistan National Champions Cup",🔴 ✗ Server 2 | Pakistan National Champions Cup vs Pakistan National Champions Cup | Hindi
-http://dai.google.com/ssai/event/MArqTlj6SOeNU3ZO3-0i0Q/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNWGRDgp/1000085356-removebg-preview.png" group-title="Cricket | Pakistan National Champions Cup vs Pakistan National Champions Cup",🔴 ✗ Server 2 | Pakistan National Champions Cup vs Pakistan National Champions Cup | Server 1
+https://hls.live123.fans/live/4570035.m3u8
