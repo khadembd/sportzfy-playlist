@@ -56,32 +56,6 @@
     "_verified": [
       [
         {
-          "id": "5353",
-          "label": "Hindi",
-          "stream_type": "hls",
-          "stream_url": "http://dai.google.com/ssai/event/MArqTlj6SOeNU3ZO3-0i0Q/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 3
-        },
-        false,
-        "not M3U8"
-      ],
-      [
-        {
-          "id": "5354",
-          "label": "SonyLIV",
-          "stream_type": "hls",
-          "stream_url": "https://dai.google.com/ssai/event/DgeLzKxsSMuwfRa8znq4RQ/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0364963809a65d36dbd35c6ce8841b87-1786852462979",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 2
-        },
-        false,
-        "not M3U8"
-      ],
-      [
-        {
           "id": "5357",
           "label": "SP - 2",
           "stream_type": "dash",
@@ -105,6 +79,32 @@
         },
         false,
         "HTTP 404"
+      ],
+      [
+        {
+          "id": "855",
+          "label": "Server 1",
+          "stream_type": "hls",
+          "stream_url": "https://hls.live123.fans/live/4570037.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 0
+        },
+        false,
+        "not M3U8"
+      ],
+      [
+        {
+          "id": "3047",
+          "label": "Server 1",
+          "stream_type": "hls",
+          "stream_url": "https://hls.live123.fans/live/4570060.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 0
+        },
+        false,
+        "not M3U8"
       ]
     ]
   },
@@ -147,10 +147,10 @@
     "_verified": [
       [
         {
-          "id": "855",
+          "id": "1777",
           "label": "Server 1",
           "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4570037.m3u8",
+          "stream_url": "https://hls.live123.fans/live/4602287.m3u8",
           "drm_kid": null,
           "drm_key": null,
           "sort_order": 0
@@ -241,13 +241,13 @@
     "_verified": [
       [
         {
-          "id": "3047",
-          "label": "Server 1",
+          "id": "5345",
+          "label": "Server 3",
           "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4570060.m3u8",
+          "stream_url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102508&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=58eaaf823b8b124213229ac251f2efbc",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 0
+          "sort_order": 1
         },
         false,
         "not M3U8"
@@ -284,16 +284,16 @@
     "_verified": [
       [
         {
-          "id": "3477",
-          "label": "SP - 2",
-          "stream_type": "dash",
-          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/mjl28zz5rj/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-          "drm_kid": "e97f48bffb38c1b2453d5ff7a919759f",
-          "drm_key": "8e1381edeed7829031963ac576700747",
-          "sort_order": 1
+          "id": "5378",
+          "label": "Server 1",
+          "stream_type": "hls",
+          "stream_url": "https://hls.live123.fans/live/4570035.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 0
         },
         false,
-        "not MPD"
+        "not M3U8"
       ]
     ]
   },
@@ -389,10 +389,10 @@
     "_verified": [
       [
         {
-          "id": "1497",
-          "label": "SonyLIV - English",
+          "id": "5353",
+          "label": "Hindi",
           "stream_type": "hls",
-          "stream_url": "https://sonymtmnew.akamaized.net/hls/live/2005445/UCL_Baye1504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776321113~acl=/*~id=73290982892272677427497237003877~hmac=3d1961d7b141f6da0bbaf7a18d7bc8129d8650fcec114b375d1f8ae3ace26dc4",
+          "stream_url": "http://dai.google.com/ssai/event/MArqTlj6SOeNU3ZO3-0i0Q/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
           "drm_kid": null,
           "drm_key": null,
           "sort_order": 3
@@ -441,29 +441,29 @@
     "_verified": [
       [
         {
-          "id": "3328",
-          "label": "SonyLIV - Hindi",
-          "stream_type": "hls",
-          "stream_url": "https://sonymtmnew.akamaized.net/hls/live/2005445/UCL_Baye1504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776321113~acl=/*~id=73290982892272677427497237003877~hmac=3d1961d7b141f6da0bbaf7a18d7bc8129d8650fcec114b375d1f8ae3ace26dc4",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 4
+          "id": "3477",
+          "label": "SP - 2",
+          "stream_type": "dash",
+          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/mjl28zz5rj/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "drm_kid": "e97f48bffb38c1b2453d5ff7a919759f",
+          "drm_key": "8e1381edeed7829031963ac576700747",
+          "sort_order": 1
         },
         false,
-        "not M3U8"
+        "not MPD"
       ],
       [
         {
-          "id": "1817",
-          "label": "Arabic",
+          "id": "1497",
+          "label": "SonyLIV - English",
           "stream_type": "hls",
-          "stream_url": "http://het119a.ycn-redirect.com/live/918454578001/index.m3u8?t=tB9jjKNGmM6N10pcPFNj-A&e=1776186349|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+          "stream_url": "https://sonymtmnew.akamaized.net/hls/live/2005445/UCL_Baye1504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776321113~acl=/*~id=73290982892272677427497237003877~hmac=3d1961d7b141f6da0bbaf7a18d7bc8129d8650fcec114b375d1f8ae3ace26dc4",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 6
+          "sort_order": 3
         },
         false,
-        "HTTPConnectionPool(host='het119a.ycn-redirect.com'"
+        "not M3U8"
       ]
     ]
   },
@@ -564,23 +564,49 @@
       ],
       [
         {
-          "id": "470",
-          "label": "BDIX",
+          "id": "5354",
+          "label": "SonyLIV",
           "stream_type": "hls",
-          "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
+          "stream_url": "https://dai.google.com/ssai/event/DgeLzKxsSMuwfRa8znq4RQ/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0364963809a65d36dbd35c6ce8841b87-1786852462979",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 1
+          "sort_order": 2
         },
         false,
         "not M3U8"
       ],
       [
         {
-          "id": "5345",
-          "label": "Server 3",
+          "id": "3328",
+          "label": "SonyLIV - Hindi",
           "stream_type": "hls",
-          "stream_url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102508&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=58eaaf823b8b124213229ac251f2efbc",
+          "stream_url": "https://sonymtmnew.akamaized.net/hls/live/2005445/UCL_Baye1504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776321113~acl=/*~id=73290982892272677427497237003877~hmac=3d1961d7b141f6da0bbaf7a18d7bc8129d8650fcec114b375d1f8ae3ace26dc4",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 4
+        },
+        false,
+        "not M3U8"
+      ],
+      [
+        {
+          "id": "1817",
+          "label": "Arabic",
+          "stream_type": "hls",
+          "stream_url": "http://het119a.ycn-redirect.com/live/918454578001/index.m3u8?t=tB9jjKNGmM6N10pcPFNj-A&e=1776186349|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 6
+        },
+        false,
+        "HTTPConnectionPool(host='het119a.ycn-redirect.com'"
+      ],
+      [
+        {
+          "id": "470",
+          "label": "BDIX",
+          "stream_type": "hls",
+          "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
           "drm_kid": null,
           "drm_key": null,
           "sort_order": 1
@@ -610,32 +636,6 @@
           "drm_kid": null,
           "drm_key": null,
           "sort_order": 0
-        },
-        false,
-        "not M3U8"
-      ],
-      [
-        {
-          "id": "1496",
-          "label": "Server 2",
-          "stream_type": "hls",
-          "stream_url": "https://stream.sports3.win/iptv/live/signal-4602287-34567.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 1
-        },
-        false,
-        "not M3U8"
-      ],
-      [
-        {
-          "id": "1503",
-          "label": "Server 2",
-          "stream_type": "hls",
-          "stream_url": "https://live.vivo200.com/live/hd-en-1-4517581.m3u8?txSecret=6319fa2b78d3fc19435e8d3a4f39cb9e&txTime=69E02695|referer=https://player.mix5000.com/",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 5
         },
         false,
         "not M3U8"
@@ -709,6 +709,19 @@
     "_verified": [
       [
         {
+          "id": "1496",
+          "label": "Server 2",
+          "stream_type": "hls",
+          "stream_url": "https://stream.sports3.win/iptv/live/signal-4602287-34567.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 1
+        },
+        false,
+        "not M3U8"
+      ],
+      [
+        {
           "id": "855",
           "label": "Server 1",
           "stream_type": "hls",
@@ -729,19 +742,6 @@
           "drm_kid": "f288380ca4cef9ad3f27a92a08e9bb8b",
           "drm_key": "9f18d26291d9230833501f7f822f6875",
           "sort_order": 0
-        },
-        false,
-        "not MPD"
-      ],
-      [
-        {
-          "id": "3477",
-          "label": "SP - 2",
-          "stream_type": "dash",
-          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/mjl28zz5rj/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-          "drm_kid": "e97f48bffb38c1b2453d5ff7a919759f",
-          "drm_key": "8e1381edeed7829031963ac576700747",
-          "sort_order": 1
         },
         false,
         "not MPD"
@@ -816,13 +816,13 @@
     "_verified": [
       [
         {
-          "id": "3013",
-          "label": "SP - 3",
+          "id": "3477",
+          "label": "SP - 2",
           "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/9fswtwjj0c/out/v1/1070854a94fe427dbfdd78a5dac2743f/cenc.mpd",
-          "drm_kid": "868f5c91cb11396c64bdaca4118f6b60",
-          "drm_key": "7a5317e82291250f16830fd6bb5f329a",
-          "sort_order": 2
+          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/mjl28zz5rj/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "drm_kid": "e97f48bffb38c1b2453d5ff7a919759f",
+          "drm_key": "8e1381edeed7829031963ac576700747",
+          "sort_order": 1
         },
         false,
         "not MPD"
@@ -859,16 +859,16 @@
     "_verified": [
       [
         {
-          "id": "1497",
-          "label": "SonyLIV - English",
-          "stream_type": "hls",
-          "stream_url": "https://sonymtmnew.akamaized.net/hls/live/2005445/UCL_Baye1504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776321113~acl=/*~id=73290982892272677427497237003877~hmac=3d1961d7b141f6da0bbaf7a18d7bc8129d8650fcec114b375d1f8ae3ace26dc4",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 3
+          "id": "3013",
+          "label": "SP - 3",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/9fswtwjj0c/out/v1/1070854a94fe427dbfdd78a5dac2743f/cenc.mpd",
+          "drm_kid": "868f5c91cb11396c64bdaca4118f6b60",
+          "drm_key": "7a5317e82291250f16830fd6bb5f329a",
+          "sort_order": 2
         },
         false,
-        "not M3U8"
+        "not MPD"
       ]
     ]
   },
@@ -921,13 +921,13 @@
     "_verified": [
       [
         {
-          "id": "3328",
-          "label": "SonyLIV - Hindi",
+          "id": "3047",
+          "label": "Server 1",
           "stream_type": "hls",
-          "stream_url": "https://sonymtmnew.akamaized.net/hls/live/2005445/UCL_Baye1504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776321113~acl=/*~id=73290982892272677427497237003877~hmac=3d1961d7b141f6da0bbaf7a18d7bc8129d8650fcec114b375d1f8ae3ace26dc4",
+          "stream_url": "https://hls.live123.fans/live/4570060.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 4
+          "sort_order": 0
         },
         false,
         "not M3U8"
@@ -973,26 +973,26 @@
     "_verified": [
       [
         {
-          "id": "3047",
-          "label": "Server 1",
+          "id": "1497",
+          "label": "SonyLIV - English",
           "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4570060.m3u8",
+          "stream_url": "https://sonymtmnew.akamaized.net/hls/live/2005445/UCL_Baye1504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776321113~acl=/*~id=73290982892272677427497237003877~hmac=3d1961d7b141f6da0bbaf7a18d7bc8129d8650fcec114b375d1f8ae3ace26dc4",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 0
+          "sort_order": 3
         },
         false,
         "not M3U8"
       ],
       [
         {
-          "id": "1503",
-          "label": "Server 2",
+          "id": "3328",
+          "label": "SonyLIV - Hindi",
           "stream_type": "hls",
-          "stream_url": "https://live.vivo200.com/live/hd-en-1-4517581.m3u8?txSecret=6319fa2b78d3fc19435e8d3a4f39cb9e&txTime=69E02695|referer=https://player.mix5000.com/",
+          "stream_url": "https://sonymtmnew.akamaized.net/hls/live/2005445/UCL_Baye1504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776321113~acl=/*~id=73290982892272677427497237003877~hmac=3d1961d7b141f6da0bbaf7a18d7bc8129d8650fcec114b375d1f8ae3ace26dc4",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 5
+          "sort_order": 4
         },
         false,
         "not M3U8"
@@ -1083,45 +1083,6 @@
     "_verified": [
       [
         {
-          "id": "4012",
-          "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_kid": "1444f4235529f183f0a5a486befe9cdb",
-          "drm_key": "e5e3fec67a1bb3472a2089c8a0a2557f",
-          "sort_order": 0
-        },
-        true,
-        "OK (MPD)"
-      ],
-      [
-        {
-          "id": "1570",
-          "label": "SP - 2",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "drm_kid": "f836853d8eac19446ed9535f5fc568b1",
-          "drm_key": "b3bc5ef00602b29abac7e482d3d9fbf3",
-          "sort_order": 1
-        },
-        true,
-        "OK (MPD)"
-      ],
-      [
-        {
-          "id": "5034",
-          "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x6oqpug9mu/out/v1/502432e8607547b4a6278d3cc64d5b78/cenc.mpd",
-          "drm_kid": "73c6218fa797bce56ec12bf5cc7e2dae",
-          "drm_key": "ec14e4df9b165a3631251246242f0e91",
-          "sort_order": 0
-        },
-        false,
-        "not MPD"
-      ],
-      [
-        {
           "id": "1777",
           "label": "Server 1",
           "stream_type": "hls",
@@ -1148,26 +1109,65 @@
       ],
       [
         {
-          "id": "4819",
-          "label": "Tapmad",
+          "id": "5034",
+          "label": "SP",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x6oqpug9mu/out/v1/502432e8607547b4a6278d3cc64d5b78/cenc.mpd",
+          "drm_kid": "73c6218fa797bce56ec12bf5cc7e2dae",
+          "drm_key": "ec14e4df9b165a3631251246242f0e91",
+          "sort_order": 0
+        },
+        false,
+        "not MPD"
+      ],
+      [
+        {
+          "id": "3539",
+          "label": "SP - 2",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "drm_kid": "14eeabf30c14b7fbf3008c03099ce011",
+          "drm_key": "17d2ac8dbc5429bd70af3433aa12158d",
+          "sort_order": 1
+        },
+        true,
+        "OK (MPD)"
+      ],
+      [
+        {
+          "id": "4012",
+          "label": "SP",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_kid": "1444f4235529f183f0a5a486befe9cdb",
+          "drm_key": "e5e3fec67a1bb3472a2089c8a0a2557f",
+          "sort_order": 0
+        },
+        true,
+        "OK (MPD)"
+      ],
+      [
+        {
+          "id": "1503",
+          "label": "Server 2",
           "stream_type": "hls",
-          "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8",
+          "stream_url": "https://live.vivo200.com/live/hd-en-1-4517581.m3u8?txSecret=6319fa2b78d3fc19435e8d3a4f39cb9e&txTime=69E02695|referer=https://player.mix5000.com/",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 0
+          "sort_order": 5
         },
         false,
         "not M3U8"
       ],
       [
         {
-          "id": "1496",
+          "id": "1503",
           "label": "Server 2",
           "stream_type": "hls",
-          "stream_url": "https://stream.sports3.win/iptv/live/signal-4602287-34567.m3u8",
+          "stream_url": "https://live.vivo200.com/live/hd-en-1-4517581.m3u8?txSecret=6319fa2b78d3fc19435e8d3a4f39cb9e&txTime=69E02695|referer=https://player.mix5000.com/",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 1
+          "sort_order": 5
         },
         false,
         "not M3U8"
@@ -1251,29 +1251,29 @@
     "_verified": [
       [
         {
-          "id": "5346",
-          "label": "Server 2",
+          "id": "4819",
+          "label": "Tapmad",
           "stream_type": "hls",
-          "stream_url": "https://cdn01isb-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDExOjUzOjMxIEFNJmhhc2hfdmFsdWU9U0tlVFlPcm5zSDV0dVk4dmNuRFlYZz09JnZhbGlkbWludXRlcz02MA%3D%3D",
+          "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8",
           "drm_kid": null,
           "drm_key": null,
           "sort_order": 0
         },
-        true,
-        "OK (master)"
+        false,
+        "not M3U8"
       ],
       [
         {
-          "id": "5321",
-          "label": "SP",
-          "stream_type": "hls",
-          "stream_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 0
+          "id": "1570",
+          "label": "SP - 2",
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "drm_kid": "f836853d8eac19446ed9535f5fc568b1",
+          "drm_key": "b3bc5ef00602b29abac7e482d3d9fbf3",
+          "sort_order": 1
         },
         true,
-        "OK (master)"
+        "OK (MPD)"
       ]
     ]
   },
@@ -1325,10 +1325,23 @@
     "_verified": [
       [
         {
-          "id": "5322",
+          "id": "2580",
+          "label": "Server 1",
+          "stream_type": "hls",
+          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 2
+        },
+        true,
+        "OK (master)"
+      ],
+      [
+        {
+          "id": "5321",
           "label": "SP",
           "stream_type": "hls",
-          "stream_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8",
+          "stream_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8",
           "drm_kid": null,
           "drm_key": null,
           "sort_order": 0
@@ -1338,26 +1351,13 @@
       ],
       [
         {
-          "id": "2197",
-          "label": "SP - 2",
-          "stream_type": "hls",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 1
-        },
-        false,
-        "not M3U8"
-      ],
-      [
-        {
-          "id": "3539",
-          "label": "SP - 2",
+          "id": "4534",
+          "label": "SP",
           "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "drm_kid": "14eeabf30c14b7fbf3008c03099ce011",
-          "drm_key": "17d2ac8dbc5429bd70af3433aa12158d",
-          "sort_order": 1
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm_kid": "f3df7843080ae743bf865dc5fdf64c68",
+          "drm_key": "567c863bc12eb74788ea74888c042e1b",
+          "sort_order": 0
         },
         true,
         "OK (MPD)"
@@ -1403,29 +1403,29 @@
     "_verified": [
       [
         {
-          "id": "4534",
+          "id": "5322",
           "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "drm_kid": "f3df7843080ae743bf865dc5fdf64c68",
-          "drm_key": "567c863bc12eb74788ea74888c042e1b",
+          "stream_type": "hls",
+          "stream_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
           "sort_order": 0
         },
         true,
-        "OK (MPD)"
+        "OK (master)"
       ],
       [
         {
-          "id": "876",
+          "id": "4589",
           "label": "SP",
-          "stream_type": "hls",
-          "stream_url": "https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
+          "stream_type": "dash",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/x3hwxiq65g/out/v1/548c2dbc4dec4a6594c6a244e9643d14/cenc.mpd",
+          "drm_kid": "1b103b7869788ae6748155df33f7b233",
+          "drm_key": "8b2e85a7f1e48f2f6263a3d337c655bc",
           "sort_order": 1
         },
         false,
-        "not M3U8"
+        "not MPD"
       ]
     ]
   },
@@ -1468,29 +1468,29 @@
     "_verified": [
       [
         {
-          "id": "4589",
-          "label": "SP",
-          "stream_type": "dash",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/x3hwxiq65g/out/v1/548c2dbc4dec4a6594c6a244e9643d14/cenc.mpd",
-          "drm_kid": "1b103b7869788ae6748155df33f7b233",
-          "drm_key": "8b2e85a7f1e48f2f6263a3d337c655bc",
+          "id": "2197",
+          "label": "SP - 2",
+          "stream_type": "hls",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
           "sort_order": 1
         },
         false,
-        "not MPD"
+        "not M3U8"
       ],
       [
         {
-          "id": "2580",
-          "label": "Server 1",
+          "id": "876",
+          "label": "SP",
           "stream_type": "hls",
-          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+          "stream_url": "https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 2
+          "sort_order": 1
         },
-        true,
-        "OK (master)"
+        false,
+        "not M3U8"
       ]
     ]
   },
@@ -1533,6 +1533,19 @@
     "_verified": [
       [
         {
+          "id": "5346",
+          "label": "Server 2",
+          "stream_type": "hls",
+          "stream_url": "https://cdn01isb-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDExOjUzOjMxIEFNJmhhc2hfdmFsdWU9U0tlVFlPcm5zSDV0dVk4dmNuRFlYZz09JnZhbGlkbWludXRlcz02MA%3D%3D",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 0
+        },
+        true,
+        "OK (master)"
+      ],
+      [
+        {
           "id": "1326",
           "label": "SP - 2",
           "stream_type": "dash",
@@ -1543,19 +1556,6 @@
         },
         true,
         "OK (MPD)"
-      ],
-      [
-        {
-          "id": "2698",
-          "label": "Server 2",
-          "stream_type": "hls",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 2
-        },
-        true,
-        "OK (media)"
       ]
     ]
   },
@@ -1607,6 +1607,19 @@
     "_verified": [
       [
         {
+          "id": "1496",
+          "label": "Server 2",
+          "stream_type": "hls",
+          "stream_url": "https://stream.sports3.win/iptv/live/signal-4602287-34567.m3u8",
+          "drm_kid": null,
+          "drm_key": null,
+          "sort_order": 1
+        },
+        false,
+        "not M3U8"
+      ],
+      [
+        {
           "id": "1327",
           "label": "SP - 3",
           "stream_type": "dash",
@@ -1620,29 +1633,16 @@
       ],
       [
         {
-          "id": "5378",
-          "label": "Server 1",
+          "id": "2698",
+          "label": "Server 2",
           "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4570035.m3u8",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8",
           "drm_kid": null,
           "drm_key": null,
-          "sort_order": 0
+          "sort_order": 2
         },
-        false,
-        "HTTPSConnectionPool(host='hls.live123.fans', port="
-      ],
-      [
-        {
-          "id": "1777",
-          "label": "Server 1",
-          "stream_type": "hls",
-          "stream_url": "https://hls.live123.fans/live/4602287.m3u8",
-          "drm_kid": null,
-          "drm_key": null,
-          "sort_order": 0
-        },
-        false,
-        "HTTPSConnectionPool(host='hls.live123.fans', port="
+        true,
+        "OK (media)"
       ]
     ]
   }
