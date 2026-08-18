@@ -1,17 +1,14 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-19T04:12:39.044406+06:00
+# Generated: 2026-08-19T05:13:11.713676+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: upcoming | Unverified: excluded
-# Total entries: 11
+# Total entries: 9
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1220595.png" group-title="Cricket | Jamaica Kingsmen vs St Kitts and Nevis Patriots",⏳ ✓ Server 1 | Jamaica Kingsmen vs St Kitts and Nevis Patriots | Server 1
-https://hls.live123.fans/live/4608842.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1220595.png" group-title="Cricket | Jamaica Kingsmen vs St Kitts and Nevis Patriots",⏳ ✓ Server 2 | Jamaica Kingsmen vs St Kitts and Nevis Patriots | Server 1
 https://hls.live123.fans/live/4570051.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1220595.png" group-title="Cricket | Jamaica Kingsmen vs St Kitts and Nevis Patriots",⏳ ✓ Server 3 | Jamaica Kingsmen vs St Kitts and Nevis Patriots | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1220595.png" group-title="Cricket | Jamaica Kingsmen vs St Kitts and Nevis Patriots",⏳ ✓ Server 2 | Jamaica Kingsmen vs St Kitts and Nevis Patriots | SP
 https://china-sp.pages.dev/itt.json?&.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✓ Server 1 | Sri Lanka vs India | SP
@@ -20,13 +17,10 @@ https://china-sp.pages.dev/bay.json?&.m3u8
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✓ Server 2 | Sri Lanka vs India | SP
 https://china-sp.pages.dev/ett.json?&.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/853576.png" group-title="Football | Al Ula vs Al-Fateh",⏳ ✓ Server 1 | Al Ula vs Al-Fateh | Server 1
-https://hls.live123.fans/live/4570055.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/853576.png" group-title="Football | Al Ula vs Al-Fateh",⏳ ✓ Server 2 | Al Ula vs Al-Fateh | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2352.png" group-title="Football | Celtic vs LASK",⏳ ✓ Server 1 | Celtic vs LASK | Server 1
 https://hls.live123.fans/live/4608842.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/5202.png" group-title="Football | Hapoel Be'er Sheva vs Sabah FK",⏳ ✓ Server 1 | Hapoel Be'er Sheva vs Sabah FK | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2352.png" group-title="Football | Celtic vs LASK",⏳ ✓ Server 2 | Celtic vs LASK | Server 1
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2836.png" group-title="Football | Atlético Madrid vs Málaga CF",⏳ ✓ Server 1 | Atlético Madrid vs Málaga CF | SP
