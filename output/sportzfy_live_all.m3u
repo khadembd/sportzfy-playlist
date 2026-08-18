@@ -1,21 +1,12 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-19T00:24:15.329714+06:00
+# Generated: 2026-08-19T01:21:39.603178+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 5
+# Total entries: 2
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/5885.png" group-title="Football | 1. FC Heidenheim vs FC Bayern München",🔴 ✓ Server 1 | 1. FC Heidenheim vs FC Bayern München | SP
-https://china-sp.pages.dev/ett.json?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/395831.png" group-title="Football | Al-Najma SC vs Al-Ittihad",🔴 ✓ Server 1 | Al-Najma SC vs Al-Ittihad | SP
-https://china-sp.pages.dev/itt.json?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/395831.png" group-title="Football | Al-Najma SC vs Al-Ittihad",🔴 ✓ Server 2 | Al-Najma SC vs Al-Ittihad | SP
-https://china-sp.pages.dev/bay.json?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/336456.png" group-title="Football | Al-Okhdood vs Al-Khaleej",🔴 ✓ Server 1 | Al-Okhdood vs Al-Khaleej | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/853574.png" group-title="Football | Al Diriyah vs Al-Nassr",🔴 ✓ Server 1 | Al Diriyah vs Al-Nassr | SP
 https://china-sp.pages.dev/Nass.json?&.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/56035.png" group-title="Football | Al Faisaly vs Neom SC",🔴 ✗ Server 1 | Al Faisaly vs Neom SC | BDIX
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3052.png" group-title="Football | Fenerbahçe vs Olympique Lyonnais",🔴 ✗ Server 1 | Fenerbahçe vs Olympique Lyonnais | BDIX
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
