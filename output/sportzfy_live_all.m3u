@@ -1,12 +1,6 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-18T20:23:14.932118+06:00
+# Generated: 2026-08-18T21:22:09.912319+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 2
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4730.png" group-title="Football | Thailand vs Singapore",🔴 ✗ Server 1 | Thailand vs Singapore | Server 1
-https://hls.live123.fans/live/4570041.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/4730.png" group-title="Football | Thailand vs Singapore",🔴 ✗ Server 2 | Thailand vs Singapore | Server 1
-https://hls.live123.fans/live/4570046.m3u8
+# Total entries: 0
