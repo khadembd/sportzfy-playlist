@@ -1,18 +1,18 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-18T22:24:07.874505+06:00
+# Generated: 2026-08-18T23:24:47.460060+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
 # Total entries: 4
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/5885.png" group-title="Football | 1. FC Heidenheim vs FC Bayern München",🔴 ✓ Server 1 | 1. FC Heidenheim vs FC Bayern München | SP
-https://mpd-himelop.pages.dev/ittihad.json?&.m3u8
+https://china-sp.pages.dev/bay.json?&.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/395831.png" group-title="Football | Al-Najma SC vs Al-Ittihad",🔴 ✓ Server 1 | Al-Najma SC vs Al-Ittihad | Server 1
-https://hls.live123.fans/live/4610650.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/395831.png" group-title="Football | Al-Najma SC vs Al-Ittihad",🔴 ✓ Server 1 | Al-Najma SC vs Al-Ittihad | SP
+https://china-sp.pages.dev/itt.json?&.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/336456.png" group-title="Football | Al-Okhdood vs Al-Khaleej",🔴 ✓ Server 1 | Al-Okhdood vs Al-Khaleej | Server 1
-https://hls.live123.fans/live/4570041.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/395831.png" group-title="Football | Al-Najma SC vs Al-Ittihad",🔴 ✓ Server 2 | Al-Najma SC vs Al-Ittihad | SP
+https://china-sp.pages.dev/ett.json?&.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/213003.png" group-title="Football | Al Jabalin vs Al-Ettifaq",🔴 ✓ Server 1 | Al Jabalin vs Al-Ettifaq | Server 1
-https://hls.live123.fans/live/4570046.m3u8
+https://hls.live123.fans/live/4570041.m3u8
