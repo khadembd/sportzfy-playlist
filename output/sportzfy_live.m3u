@@ -1,6 +1,9 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-19T21:22:46.583251+06:00
+# Generated: 2026-08-19T23:18:20.674295+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 0
+# Total entries: 1
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/204126.png" group-title="Football | Damac FC vs Al-Taawoun",🔴 ✓ Server 1 | Damac FC vs Al-Taawoun | SP
+https://china-sp.pages.dev/khoolood-1908.json?&.m3u8
