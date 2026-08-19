@@ -1,15 +1,6 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-20T04:14:38.939186+06:00
+# Generated: 2026-08-20T05:14:21.666624+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 3
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2404.png" group-title="Football | ŠK Slovan Bratislava vs NK Celje",🔴 ✓ Server 1 | ŠK Slovan Bratislava vs NK Celje | SP - 2
-https://china-sp.pages.dev/fcbb.json?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2836.png" group-title="Football | Atlético Madrid vs Málaga CF",🔴 ✗ Server 1 | Atlético Madrid vs Málaga CF | TAPMAD - BDIX
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2836.png" group-title="Football | Atlético Madrid vs Málaga CF",🔴 ✗ Server 2 | Atlético Madrid vs Málaga CF | Tapmad
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+# Total entries: 0
