@@ -1,6 +1,9 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-19T08:19:58.875531+06:00
+# Generated: 2026-08-19T09:39:04.861789+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 0
+# Total entries: 1
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1220595.png" group-title="Cricket | Jamaica Kingsmen vs St Kitts and Nevis Patriots",🔴 ✓ Server 1 | Jamaica Kingsmen vs St Kitts and Nevis Patriots | SP
+https://china-sp.pages.dev/itt.json?&.m3u8
