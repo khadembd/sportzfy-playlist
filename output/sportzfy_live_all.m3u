@@ -1,18 +1,9 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-19T19:37:01.850919+06:00
+# Generated: 2026-08-19T20:23:48.643630+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 4
+# Total entries: 1
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187757.png" group-title="Cricket | England vs Pakistan",🔴 ✗ Server 1 | England vs Pakistan | TAPMAD - BDIX
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/7050.png" group-title="Football | Vietnam vs Malaysia",🔴 ✗ Server 1 | Vietnam vs Malaysia | TAPMAD - BDIX
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187757.png" group-title="Cricket | England vs Pakistan",🔴 ✓ Server 2 | England vs Pakistan | SP
-https://china-sp.pages.dev/bay.json?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187757.png" group-title="Cricket | England vs Pakistan",🔴 ✓ Server 3 | England vs Pakistan | SP
-https://china-sp.pages.dev/mal-1908.json?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/7050.png" group-title="Football | Vietnam vs Malaysia",🔴 ✓ Server 1 | Vietnam vs Malaysia | SP
-https://china-sp.pages.dev/ett.json?&.m3u8
