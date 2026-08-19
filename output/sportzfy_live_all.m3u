@@ -1,15 +1,12 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-19T09:39:04.861906+06:00
+# Generated: 2026-08-19T10:32:55.476684+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 3
+# Total entries: 2
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1220595.png" group-title="Cricket | Jamaica Kingsmen vs St Kitts and Nevis Patriots",🔴 ✗ Server 1 | Jamaica Kingsmen vs St Kitts and Nevis Patriots | Server 1
-https://hls.live123.fans/live/4570051.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1220595.png" group-title="Cricket | Jamaica Kingsmen vs St Kitts and Nevis Patriots",🔴 ✗ Server 2 | Jamaica Kingsmen vs St Kitts and Nevis Patriots | Server 1
-https://hls.live123.fans/live/4570039.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1220595.png" group-title="Cricket | Jamaica Kingsmen vs St Kitts and Nevis Patriots",🔴 ✓ Server 3 | Jamaica Kingsmen vs St Kitts and Nevis Patriots | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",🔴 ✓ Server 1 | Sri Lanka vs India | SP
 https://china-sp.pages.dev/itt.json?&.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",🔴 ✓ Server 2 | Sri Lanka vs India | SP
+https://china-sp.pages.dev/bay.json?&.m3u8
