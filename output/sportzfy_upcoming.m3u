@@ -1,12 +1,12 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-19T10:32:55.476885+06:00
+# Generated: 2026-08-19T12:27:58.884605+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: upcoming | Unverified: excluded
 # Total entries: 4
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/7050.png" group-title="Football | Vietnam vs Malaysia",⏳ ✓ Server 1 | Vietnam vs Malaysia | SP
-https://china-sp.pages.dev/ett.json?&.m3u8
+https://china-sp.pages.dev/bay.json?&.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2836.png" group-title="Football | Atlético Madrid vs Málaga CF",⏳ ✓ Server 1 | Atlético Madrid vs Málaga CF | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
