@@ -1,18 +1,12 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-20T00:19:04.706400+06:00
+# Generated: 2026-08-20T02:16:12.565586+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 4
+# Total entries: 2
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/204126.png" group-title="Football | Damac FC vs Al-Taawoun",🔴 ✓ Server 1 | Damac FC vs Al-Taawoun | SP
-https://china-sp.pages.dev/khoolood-1908.json?&.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2962.png" group-title="Football | NEC Nijmegen vs Bodø/Glimt",🔴 ✓ Server 1 | NEC Nijmegen vs Bodø/Glimt | SP
+https://fastly.live.brightcove.com/6384149663112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODQxNDk2NjMxMTIifQ.0yJpNEV0ZSId11mURgeaOhXZvov07Uj-VI_0qt0LLSQ/playlist-hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/204126.png" group-title="Football | Damac FC vs Al-Taawoun",🔴 ✓ Server 2 | Damac FC vs Al-Taawoun | SP - 2
-https://china-sp.pages.dev/fcb-1908.json?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/265323.png" group-title="Football | Jeddah vs Al-Kholood",🔴 ✓ Server 1 | Jeddah vs Al-Kholood | SP
-https://china-sp.pages.dev/damac-1908.json?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/853576.png" group-title="Football | Al Ula vs Al-Fateh",🔴 ✓ Server 1 | Al Ula vs Al-Fateh | Server 1
-https://hls.live123.fans/live/4570044.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2962.png" group-title="Football | NEC Nijmegen vs Bodø/Glimt",🔴 ✓ Server 2 | NEC Nijmegen vs Bodø/Glimt | SP - 2
+https://china-sp.pages.dev/fcbb.json?&.m3u8

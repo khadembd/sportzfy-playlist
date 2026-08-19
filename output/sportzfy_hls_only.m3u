@@ -1,35 +1,32 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-20T00:19:04.705545+06:00
+# Generated: 2026-08-20T02:16:12.564537+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: all | Unverified: excluded
-# Total entries: 11
+# Total entries: 10
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187757.png" group-title="Cricket | England vs Pakistan",✓ ✓ Server 1 | England vs Pakistan | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2962.png" group-title="Football | NEC Nijmegen vs Bodø/Glimt",🔴 ✓ Server 1 | NEC Nijmegen vs Bodø/Glimt | SP
 https://fastly.live.brightcove.com/6384149663112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODQxNDk2NjMxMTIifQ.0yJpNEV0ZSId11mURgeaOhXZvov07Uj-VI_0qt0LLSQ/playlist-hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/204126.png" group-title="Football | Damac FC vs Al-Taawoun",🔴 ✓ Server 1 | Damac FC vs Al-Taawoun | SP
-https://china-sp.pages.dev/khoolood-1908.json?&.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2962.png" group-title="Football | NEC Nijmegen vs Bodø/Glimt",🔴 ✓ Server 2 | NEC Nijmegen vs Bodø/Glimt | SP - 2
+https://china-sp.pages.dev/fcbb.json?&.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/204126.png" group-title="Football | Damac FC vs Al-Taawoun",🔴 ✓ Server 2 | Damac FC vs Al-Taawoun | SP - 2
-https://china-sp.pages.dev/fcb-1908.json?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/265323.png" group-title="Football | Jeddah vs Al-Kholood",🔴 ✓ Server 1 | Jeddah vs Al-Kholood | SP
-https://china-sp.pages.dev/damac-1908.json?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/853576.png" group-title="Football | Al Ula vs Al-Fateh",🔴 ✓ Server 1 | Al Ula vs Al-Fateh | Server 1
-https://hls.live123.fans/live/4570044.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2352.png" group-title="Football | Celtic vs LASK",⏳ ✓ Server 1 | Celtic vs LASK | Server 1
-https://hls.live123.fans/live/4570042.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2836.png" group-title="Football | Atlético Madrid vs Málaga CF",⏳ ✓ Server 1 | Atlético Madrid vs Málaga CF | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187757.png" group-title="Cricket | England vs Pakistan",⏳ ✓ Server 1 | England vs Pakistan | Server 1
 https://hls.live123.fans/live/4570056.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",⏳ ✓ Server 1 | Formula 1 vs Formula 1 | SP
-https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187757.png" group-title="Cricket | England vs Pakistan",⏳ ✓ Server 2 | England vs Pakistan | Server 1
+https://hls.live123.fans/live/4608845.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187757.png" group-title="Cricket | England vs Pakistan",⏳ ✓ Server 3 | England vs Pakistan | Server 1
+https://hls.live123.fans/live/4608831.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",⏳ ✓ Server 1 | Formula 1 vs Formula 1 | Server 1
+https://hls.live123.fans/live/4565317.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187746.png" group-title="Cricket | Australia vs Bangladesh",⏳ ✓ Server 1 | Australia vs Bangladesh | SP
+https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187746.png" group-title="Cricket | Australia vs Bangladesh",⏳ ✓ Server 2 | Australia vs Bangladesh | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/3maFhZB.png" group-title="Motorsports | MotoGP vs MotoGP",⏳ ✓ Server 1 | MotoGP vs MotoGP | Server 2
