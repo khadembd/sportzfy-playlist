@@ -1,12 +1,15 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-21T04:17:59.839920+06:00
+# Generated: 2026-08-21T05:17:54.697130+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 2
+# Total entries: 3
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/6001.png" group-title="Football | Macará vs Santos",🔴 ✗ Server 1 | Macará vs Santos | BDIX
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/6001.png" group-title="Football | Macará vs Santos",🔴 ✗ Server 1 | Macará vs Santos | TAPMAD - BDIX
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/6001.png" group-title="Football | Macará vs Santos",🔴 ✓ Server 2 | Macará vs Santos | SP - 3
 https://china-sp.pages.dev/santos-2008.json?&.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/514842.png" group-title="Cricket | Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots",🔴 ✗ Server 1 | Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots | TAPMAD - BDIX
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
