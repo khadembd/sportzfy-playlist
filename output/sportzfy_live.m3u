@@ -1,18 +1,30 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-21T00:23:55.360733+06:00
+# Generated: 2026-08-21T01:24:16.811347+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 4
+# Total entries: 8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/660.png" group-title="Football | Tromsø IL vs Brighton & Hove Albion",🔴 ✓ Server 1 | Tromsø IL vs Brighton & Hove Albion | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3110.png" group-title="Football | Górnik Zabrze vs AS Monaco",🔴 ✓ Server 1 | Górnik Zabrze vs AS Monaco | SP
 https://china-sp.pages.dev/hilal-2008.json?&.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3110.png" group-title="Football | Górnik Zabrze vs AS Monaco",🔴 ✓ Server 1 | Górnik Zabrze vs AS Monaco | Server 1
-https://hls.live123.fans/live/4608920.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/168094.png" group-title="Football | Al-Fayha vs Al-Hilal",🔴 ✓ Server 1 | Al-Fayha vs Al-Hilal | SP
+https://china-sp.pages.dev/monaco-2008.json?&.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3110.png" group-title="Football | Górnik Zabrze vs AS Monaco",🔴 ✓ Server 2 | Górnik Zabrze vs AS Monaco | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2452.png" group-title="Football | FC Sion vs AFC Ajax",🔴 ✓ Server 1 | FC Sion vs AFC Ajax | Server 1
 https://hls.live123.fans/live/4608891.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/168094.png" group-title="Football | Al-Fayha vs Al-Hilal",🔴 ✓ Server 1 | Al-Fayha vs Al-Hilal | Server 1
-https://hls.live123.fans/live/4608899.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2686.png" group-title="Football | Atalanta vs Hapoel Tel Aviv",🔴 ✓ Server 1 | Atalanta vs Hapoel Tel Aviv | Server 1
+https://hls.live123.fans/live/4608908.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2686.png" group-title="Football | Atalanta vs Hapoel Tel Aviv",🔴 ✓ Server 2 | Atalanta vs Hapoel Tel Aviv | Server 1
+https://hls.live123.fans/live/4599549.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2686.png" group-title="Football | Atalanta vs Hapoel Tel Aviv",🔴 ✓ Server 3 | Atalanta vs Hapoel Tel Aviv | Server 1
+https://hls.live123.fans/live/4608925.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2859.png" group-title="Football | Getafe vs FK Partizan",🔴 ✓ Server 1 | Getafe vs FK Partizan | Server 1
+https://hls.live123.fans/live/4608921.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2818.png" group-title="Football | Rayo Vallecano vs Deportivo Alavés",🔴 ✓ Server 1 | Rayo Vallecano vs Deportivo Alavés | Server 1
+https://hls.live123.fans/live/4608875.m3u8

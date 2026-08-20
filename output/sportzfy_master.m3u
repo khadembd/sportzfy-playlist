@@ -1,114 +1,129 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-21T00:23:55.360355+06:00
+# Generated: 2026-08-21T01:24:16.810986+06:00
 # Mode: All streams (HLS+DASH)
 # Filter: all | Unverified: excluded
-# Total entries: 36
+# Total entries: 41
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187757.png" group-title="Cricket | England vs Pakistan",✓ ✓ Server 1 | England vs Pakistan | SP
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/koc8anrj2t/out/v1/6333afb5e11340338ab382a3891ffcd9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3110.png" group-title="Football | Górnik Zabrze vs AS Monaco",🔴 ✓ Server 1 | Górnik Zabrze vs AS Monaco | SP
+https://china-sp.pages.dev/hilal-2008.json?&.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187757.png" group-title="Cricket | England vs Pakistan",✓ ✓ Server 2 | England vs Pakistan | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/168094.png" group-title="Football | Al-Fayha vs Al-Hilal",🔴 ✓ Server 1 | Al-Fayha vs Al-Hilal | SP
 https://china-sp.pages.dev/monaco-2008.json?&.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/660.png" group-title="Football | Tromsø IL vs Brighton & Hove Albion",🔴 ✓ Server 1 | Tromsø IL vs Brighton & Hove Albion | SP
-https://china-sp.pages.dev/hilal-2008.json?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3110.png" group-title="Football | Górnik Zabrze vs AS Monaco",🔴 ✓ Server 1 | Górnik Zabrze vs AS Monaco | Server 1
-https://hls.live123.fans/live/4608920.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3110.png" group-title="Football | Górnik Zabrze vs AS Monaco",🔴 ✓ Server 2 | Górnik Zabrze vs AS Monaco | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2452.png" group-title="Football | FC Sion vs AFC Ajax",🔴 ✓ Server 1 | FC Sion vs AFC Ajax | Server 1
 https://hls.live123.fans/live/4608891.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/168094.png" group-title="Football | Al-Fayha vs Al-Hilal",🔴 ✓ Server 1 | Al-Fayha vs Al-Hilal | Server 1
-https://hls.live123.fans/live/4608899.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2686.png" group-title="Football | Atalanta vs Hapoel Tel Aviv",🔴 ✓ Server 1 | Atalanta vs Hapoel Tel Aviv | Server 1
+https://hls.live123.fans/live/4608908.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2686.png" group-title="Football | Atalanta vs Hapoel Tel Aviv",⏳ ✓ Server 1 | Atalanta vs Hapoel Tel Aviv | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2686.png" group-title="Football | Atalanta vs Hapoel Tel Aviv",🔴 ✓ Server 2 | Atalanta vs Hapoel Tel Aviv | Server 1
+https://hls.live123.fans/live/4599549.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2686.png" group-title="Football | Atalanta vs Hapoel Tel Aviv",🔴 ✓ Server 3 | Atalanta vs Hapoel Tel Aviv | Server 1
+https://hls.live123.fans/live/4608925.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2859.png" group-title="Football | Getafe vs FK Partizan",🔴 ✓ Server 1 | Getafe vs FK Partizan | Server 1
+https://hls.live123.fans/live/4608921.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3006.png" group-title="Football | Benfica vs AGF",🔴 ✓ Server 1 | Benfica vs AGF | SP
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2999.png" group-title="Football | Sporting Braga vs FK Austria Wien",⏳ ✓ Server 1 | Sporting Braga vs FK Austria Wien | SP - 2
-https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2818.png" group-title="Football | Rayo Vallecano vs Deportivo Alavés",⏳ ✓ Server 1 | Rayo Vallecano vs Deportivo Alavés | SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2818.png" group-title="Football | Rayo Vallecano vs Deportivo Alavés",⏳ ✓ Server 2 | Rayo Vallecano vs Deportivo Alavés | SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2818.png" group-title="Football | Rayo Vallecano vs Deportivo Alavés",⏳ ✓ Server 3 | Rayo Vallecano vs Deportivo Alavés | FC
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2818.png" group-title="Football | Rayo Vallecano vs Deportivo Alavés",🔴 ✓ Server 1 | Rayo Vallecano vs Deportivo Alavés | FC
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/6001.png" group-title="Football | Macará vs Santos",⏳ ✓ Server 1 | Macará vs Santos | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2818.png" group-title="Football | Rayo Vallecano vs Deportivo Alavés",🔴 ✓ Server 2 | Rayo Vallecano vs Deportivo Alavés | SP
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/6001.png" group-title="Football | Macará vs Santos",⏳ ✓ Server 2 | Macará vs Santos | SP - 2
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2818.png" group-title="Football | Rayo Vallecano vs Deportivo Alavés",🔴 ✓ Server 3 | Rayo Vallecano vs Deportivo Alavés | Server 1
+https://hls.live123.fans/live/4608875.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2818.png" group-title="Football | Rayo Vallecano vs Deportivo Alavés",🔴 ✓ Server 4 | Rayo Vallecano vs Deportivo Alavés | SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/6001.png" group-title="Football | Macará vs Santos",⏳ ✓ Server 1 | Macará vs Santos | SP - 2
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/6001.png" group-title="Football | Macará vs Santos",⏳ ✓ Server 3 | Macará vs Santos | SP - 3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/6001.png" group-title="Football | Macará vs Santos",⏳ ✓ Server 2 | Macará vs Santos | Server 1
+https://hls.live123.fans/live/4608920.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/514842.png" group-title="Cricket | Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots",⏳ ✓ Server 1 | Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots | SP - 2
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/6001.png" group-title="Football | Macará vs Santos",⏳ ✓ Server 3 | Macará vs Santos | Server 1
+https://hls.live123.fans/live/4565335.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/514842.png" group-title="Cricket | Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots",⏳ ✓ Server 1 | Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots | SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1958.png" group-title="Football | Botafogo vs Cienciano",⏳ ✓ Server 1 | Botafogo vs Cienciano | SP
-https://china-sp.pages.dev/hilal-2008.json?&.m3u8
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/koc8anrj2t/out/v1/6333afb5e11340338ab382a3891ffcd9/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1958.png" group-title="Football | Botafogo vs Cienciano",⏳ ✓ Server 2 | Botafogo vs Cienciano | SP - 2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",⏳ ✓ Server 1 | Formula 1 vs Formula 1 | Server 1
-http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1958.png" group-title="Football | Botafogo vs Cienciano",⏳ ✓ Server 3 | Botafogo vs Cienciano | SP - 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187757.png" group-title="Cricket | England vs Pakistan",⏳ ✓ Server 1 | England vs Pakistan | SP - 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",⏳ ✓ Server 1 | Formula 1 vs Formula 1 | SP
+https://china-sp.pages.dev/hilal-2008.json?&.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",⏳ ✓ Server 2 | Formula 1 vs Formula 1 | Server 1
 https://hls.live123.fans/live/4599549.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/168088.png" group-title="Football | Al-Riyadh vs Al-Nassr",⏳ ✓ Server 1 | Al-Riyadh vs Al-Nassr | TAMASHA
-https://cdn06khi-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDk6NDQ6NDcgQU0maGFzaF92YWx1ZT1VVmp4c1lmVFhEQ3hPNklqNDRUalV3PT0mdmFsaWRtaW51dGVzPTYw
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/56027.png" group-title="Football | Al-Qadsiah vs Al-Ittihad",⏳ ✓ Server 1 | Al-Qadsiah vs Al-Ittihad | Server 2
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/56027.png" group-title="Football | Al-Qadsiah vs Al-Ittihad",⏳ ✓ Server 2 | Al-Qadsiah vs Al-Ittihad | SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/56035.png" group-title="Football | Al Faisaly vs Neom SC",⏳ ✓ Server 1 | Al Faisaly vs Neom SC | SP - 2
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/168088.png" group-title="Football | Al-Riyadh vs Al-Nassr",⏳ ✓ Server 1 | Al-Riyadh vs Al-Nassr | SP - 2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1641.png" group-title="Football | Olympique de Marseille vs RC Strasbourg",⏳ ✓ Server 1 | Olympique de Marseille vs RC Strasbourg | FC
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/168088.png" group-title="Football | Al-Riyadh vs Al-Nassr",⏳ ✓ Server 2 | Al-Riyadh vs Al-Nassr | Server 1
+http://tvsen5.aynascope.net/willowhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2816.png" group-title="Football | Real Betis vs Real Sociedad",⏳ ✓ Server 1 | Real Betis vs Real Sociedad | SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/56027.png" group-title="Football | Al-Qadsiah vs Al-Ittihad",⏳ ✓ Server 1 | Al-Qadsiah vs Al-Ittihad | SP - 3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/42.png" group-title="Football | Arsenal vs Coventry City",⏳ ✓ Server 1 | Arsenal vs Coventry City | SP
-https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187825.png" group-title="Cricket | Saint Lucia Kings vs Jamaica Kingsmen",⏳ ✓ Server 1 | Saint Lucia Kings vs Jamaica Kingsmen | SP - 2
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/56035.png" group-title="Football | Al Faisaly vs Neom SC",⏳ ✓ Server 1 | Al Faisaly vs Neom SC | SP - 2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187746.png" group-title="Cricket | Australia vs Bangladesh",⏳ ✓ Server 1 | Australia vs Bangladesh | Server 1
-http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/56035.png" group-title="Football | Al Faisaly vs Neom SC",⏳ ✓ Server 1 | Al Faisaly vs Neom SC | FC
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2816.png" group-title="Football | Real Betis vs Real Sociedad",⏳ ✓ Server 1 | Real Betis vs Real Sociedad | Server 2
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2816.png" group-title="Football | Real Betis vs Real Sociedad",⏳ ✓ Server 2 | Real Betis vs Real Sociedad | SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2816.png" group-title="Football | Real Betis vs Real Sociedad",⏳ ✓ Server 3 | Real Betis vs Real Sociedad | Server 1
+https://hls.live123.fans/live/4565335.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/42.png" group-title="Football | Arsenal vs Coventry City",⏳ ✓ Server 1 | Arsenal vs Coventry City | SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/42.png" group-title="Football | Arsenal vs Coventry City",⏳ ✓ Server 2 | Arsenal vs Coventry City | SP
+https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187825.png" group-title="Cricket | Saint Lucia Kings vs Jamaica Kingsmen",⏳ ✓ Server 1 | Saint Lucia Kings vs Jamaica Kingsmen | SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187746.png" group-title="Cricket | Australia vs Bangladesh",⏳ ✓ Server 1 | Australia vs Bangladesh | SP - 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/514842.png" group-title="Cricket | Antigua & Barbuda Falcons vs Trinbago Knight Riders",⏳ ✓ Server 1 | Antigua & Barbuda Falcons vs Trinbago Knight Riders | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✓ Server 1 | Sri Lanka vs India | SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✓ Server 2 | Sri Lanka vs India | SP - 2
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✓ Server 3 | Sri Lanka vs India | SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/WWE_RAW_Logo_2025.svg" group-title="WWE | Monday Night Raw vs Monday Night Raw",⏳ ✓ Server 1 | Monday Night Raw vs Monday Night Raw | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/514842.png" group-title="Cricket | Antigua & Barbuda Falcons vs Trinbago Knight Riders",⏳ ✓ Server 2 | Antigua & Barbuda Falcons vs Trinbago Knight Riders | Server 1
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/3maFhZB.png" group-title="Motorsports | MotoGP vs MotoGP",⏳ ✓ Server 1 | MotoGP vs MotoGP | SP - 2
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✓ Server 1 | Sri Lanka vs India | SP - 2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/3maFhZB.png" group-title="Motorsports | MotoGP vs MotoGP",⏳ ✓ Server 2 | MotoGP vs MotoGP | Server 1
-https://hls.live123.fans/live/4599549.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✓ Server 2 | Sri Lanka vs India | Server 1
+http://tvsen5.aynascope.net/willowhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/3maFhZB.png" group-title="Motorsports | MotoGP vs MotoGP",⏳ ✓ Server 3 | MotoGP vs MotoGP | SP - 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/WWE_RAW_Logo_2025.svg" group-title="WWE | Monday Night Raw vs Monday Night Raw",⏳ ✓ Server 1 | Monday Night Raw vs Monday Night Raw | TAMASHA
+https://cdn06khi-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDk6NDQ6NDcgQU0maGFzaF92YWx1ZT1VVmp4c1lmVFhEQ3hPNklqNDRUalV3PT0mdmFsaWRtaW51dGVzPTYw
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/WWE_RAW_Logo_2025.svg" group-title="WWE | Monday Night Raw vs Monday Night Raw",⏳ ✓ Server 2 | Monday Night Raw vs Monday Night Raw | SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/3maFhZB.png" group-title="Motorsports | MotoGP vs MotoGP",⏳ ✓ Server 1 | MotoGP vs MotoGP | SP - 3
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
