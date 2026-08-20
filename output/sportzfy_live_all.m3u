@@ -1,57 +1,21 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-21T02:18:07.574917+06:00
+# Generated: 2026-08-21T03:18:45.254241+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 17
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3110.png" group-title="Football | Górnik Zabrze vs AS Monaco",🔴 ✗ Server 1 | Górnik Zabrze vs AS Monaco | Tapmad
-https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3110.png" group-title="Football | Górnik Zabrze vs AS Monaco",🔴 ✓ Server 2 | Górnik Zabrze vs AS Monaco | SP
-https://china-sp.pages.dev/hilal-2008.json?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/168094.png" group-title="Football | Al-Fayha vs Al-Hilal",🔴 ✓ Server 1 | Al-Fayha vs Al-Hilal | SP
-https://china-sp.pages.dev/monaco-2008.json?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/168094.png" group-title="Football | Al-Fayha vs Al-Hilal",🔴 ✗ Server 2 | Al-Fayha vs Al-Hilal | LOW
-http://193.47.62.42/hls/GLLL.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/168094.png" group-title="Football | Al-Fayha vs Al-Hilal",🔴 ✓ Server 3 | Al-Fayha vs Al-Hilal | Server 1
-https://hls.live123.fans/live/4608908.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/168094.png" group-title="Football | Al-Fayha vs Al-Hilal",🔴 ✓ Server 4 | Al-Fayha vs Al-Hilal | Server 1
-https://hls.live123.fans/live/4608920.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2452.png" group-title="Football | FC Sion vs AFC Ajax",🔴 ✓ Server 1 | FC Sion vs AFC Ajax | Server 1
-https://hls.live123.fans/live/4608925.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2686.png" group-title="Football | Atalanta vs Hapoel Tel Aviv",🔴 ✓ Server 1 | Atalanta vs Hapoel Tel Aviv | Server 1
-https://hls.live123.fans/live/4608891.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2686.png" group-title="Football | Atalanta vs Hapoel Tel Aviv",🔴 ✓ Server 2 | Atalanta vs Hapoel Tel Aviv | Server 1
-https://hls.live123.fans/live/4608875.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2686.png" group-title="Football | Atalanta vs Hapoel Tel Aviv",🔴 ✓ Server 3 | Atalanta vs Hapoel Tel Aviv | Server 1
-https://hls.live123.fans/live/4608921.m3u8
+# Total entries: 5
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2859.png" group-title="Football | Getafe vs FK Partizan",🔴 ✗ Server 1 | Getafe vs FK Partizan | Tapmad
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2999.png" group-title="Football | Sporting Braga vs FK Austria Wien",🔴 ✗ Server 1 | Sporting Braga vs FK Austria Wien | SP - 2
-https://chatgpt.hereisman.net/playlist/54911/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3006.png" group-title="Football | Benfica vs AGF",🔴 ✗ Server 1 | Benfica vs AGF | SP
-https://chatgpt.hereisman.net/playlist/54908/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3006.png" group-title="Football | Benfica vs AGF",🔴 ✗ Server 2 | Benfica vs AGF | LOW
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3006.png" group-title="Football | Benfica vs AGF",🔴 ✗ Server 1 | Benfica vs AGF | LOW
 http://193.47.62.53/hls/RQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2818.png" group-title="Football | Rayo Vallecano vs Deportivo Alavés",🔴 ✓ Server 1 | Rayo Vallecano vs Deportivo Alavés | Server 1
-https://hls.live123.fans/live/4599549.m3u8
+https://hls.live123.fans/live/4608875.m3u8
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2818.png" group-title="Football | Rayo Vallecano vs Deportivo Alavés",🔴 ✓ Server 2 | Rayo Vallecano vs Deportivo Alavés | Server 1
-https://hls.live123.fans/live/4565335.m3u8
+https://hls.live123.fans/live/4608925.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2818.png" group-title="Football | Rayo Vallecano vs Deportivo Alavés",🔴 ✗ Server 3 | Rayo Vallecano vs Deportivo Alavés | BDIX
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2818.png" group-title="Football | Rayo Vallecano vs Deportivo Alavés",🔴 ✓ Server 3 | Rayo Vallecano vs Deportivo Alavés | Server 1
+https://hls.live123.fans/live/4565335.m3u8
