@@ -1,6 +1,9 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-20T22:23:01.475347+06:00
+# Generated: 2026-08-20T23:19:41.154240+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 0
+# Total entries: 1
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/660.png" group-title="Football | Tromsø IL vs Brighton & Hove Albion",🔴 ✗ Server 1 | Tromsø IL vs Brighton & Hove Albion | Server 1
+https://hls.live123.fans/live/4599549.m3u8
