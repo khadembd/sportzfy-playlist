@@ -1,12 +1,6 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-21T08:19:01.724525+06:00
+# Generated: 2026-08-21T09:43:21.566882+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 2
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/514842.png" group-title="Cricket | Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots",🔴 ✗ Server 1 | Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots | TAPMAD - BDIX
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/514842.png" group-title="Cricket | Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots",🔴 ✗ Server 2 | Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots | TAPMAD - BDIX
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+# Total entries: 0
