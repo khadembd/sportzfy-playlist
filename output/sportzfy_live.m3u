@@ -1,6 +1,9 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-21T13:36:55.507883+06:00
+# Generated: 2026-08-21T14:28:23.802441+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 0
+# Total entries: 1
+
+#EXTINF:-1 tvg-logo="https://static-files.cricket-australia.pulselive.com/series-web/74/4708.png" group-title="Cricket | TOP END T20 vs TOP END T20",🔴 ✓ Server 1 | TOP END T20 vs TOP END T20 | SP
+https://china-sp.pages.dev/hilal-2008.json?&.m3u8
