@@ -1,21 +1,12 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-21T06:41:26.671189+06:00
+# Generated: 2026-08-21T08:19:01.724525+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 5
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/6001.png" group-title="Football | Macará vs Santos",🔴 ✓ Server 1 | Macará vs Santos | SP - 3
-https://china-sp.pages.dev/santos-2008.json?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/6001.png" group-title="Football | Macará vs Santos",🔴 ✗ Server 2 | Macará vs Santos | TAPMAD - BDIX
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/6001.png" group-title="Football | Macará vs Santos",🔴 ✓ Server 3 | Macará vs Santos | Server 1
-https://hls.live123.fans/live/4601371.m3u8
+# Total entries: 2
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/514842.png" group-title="Cricket | Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots",🔴 ✗ Server 1 | Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots | TAPMAD - BDIX
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/1958.png" group-title="Football | Botafogo vs Cienciano",🔴 ✓ Server 1 | Botafogo vs Cienciano | Server 1
-https://hls.live123.fans/live/4602340.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/514842.png" group-title="Cricket | Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots",🔴 ✗ Server 2 | Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots | TAPMAD - BDIX
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
