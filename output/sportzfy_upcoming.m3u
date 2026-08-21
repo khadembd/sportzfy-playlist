@@ -1,36 +1,36 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-21T14:28:23.803231+06:00
+# Generated: 2026-08-21T15:27:43.887929+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: upcoming | Unverified: excluded
 # Total entries: 10
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/56027.png" group-title="Football | Al-Qadsiah vs Al-Ittihad",⏳ ✓ Server 1 | Al-Qadsiah vs Al-Ittihad | Server 2
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/168086.png" group-title="Football | Al-Hazem vs Al Diriyah",⏳ ✓ Server 1 | Al-Hazem vs Al Diriyah | Server 2
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187825.png" group-title="Cricket | Saint Lucia Kings vs Jamaica Kingsmen",⏳ ✓ Server 1 | Saint Lucia Kings vs Jamaica Kingsmen | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/42.png" group-title="Football | Arsenal vs Coventry City",⏳ ✓ Server 1 | Arsenal vs Coventry City | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3014.png" group-title="Football | Moreirense vs Benfica",⏳ ✓ Server 1 | Moreirense vs Benfica | TAMASHA
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187825.png" group-title="Cricket | Saint Lucia Kings vs Jamaica Kingsmen",⏳ ✓ Server 1 | Saint Lucia Kings vs Jamaica Kingsmen | TAMASHA
 https://cdn06khi-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDk6NDQ6NDcgQU0maGFzaF92YWx1ZT1VVmp4c1lmVFhEQ3hPNklqNDRUalV3PT0mdmFsaWRtaW51dGVzPTYw
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/96.png" group-title="Football | Hull City vs Manchester United",⏳ ✓ Server 1 | Hull City vs Manchester United | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/3014.png" group-title="Football | Moreirense vs Benfica",⏳ ✓ Server 1 | Moreirense vs Benfica | Server 1
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/25.png" group-title="Football | Millwall vs Norwich City",⏳ ✓ Server 1 | Millwall vs Norwich City | SP
 https://china-sp.pages.dev/mal-1908.json?&.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/96.png" group-title="Football | Hull City vs Manchester United",⏳ ✓ Server 2 | Hull City vs Manchester United | Server 1
-http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/14.png" group-title="Football | Nottingham Forest vs Leeds United",⏳ ✓ Server 1 | Nottingham Forest vs Leeds United | SP - 2
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=T7ZpB3n6ou61fynj7itqcg&e=2071765829&scheme=https
 
 #EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2825.png" group-title="Football | Athletic Club vs Sevilla",⏳ ✓ Server 1 | Athletic Club vs Sevilla | SP
 https://china-sp.pages.dev/hilal-2008.json?&.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2697.png" group-title="Football | Inter vs Monza",⏳ ✓ Server 1 | Inter vs Monza | SP - 2
-https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=T7ZpB3n6ou61fynj7itqcg&e=2071765829&scheme=https
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187756.png" group-title="Cricket | Sri Lanka vs India",⏳ ✓ Server 1 | Sri Lanka vs India | Server 1
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2814.png" group-title="Football | Espanyol vs Real Madrid",⏳ ✓ Server 1 | Espanyol vs Real Madrid | Server 1
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2846.png" group-title="Football | Elche vs FC Barcelona",⏳ ✓ Server 1 | Elche vs FC Barcelona | SP - 2
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2688.png" group-title="Football | Venezia vs Lecce",⏳ ✓ Server 1 | Venezia vs Lecce | SP - 2
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=T7ZpB3n6ou61fynj7itqcg&e=2071765829&scheme=https
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2846.png" group-title="Football | Elche vs FC Barcelona",⏳ ✓ Server 2 | Elche vs FC Barcelona | SP
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/2846.png" group-title="Football | Elche vs FC Barcelona",⏳ ✓ Server 1 | Elche vs FC Barcelona | SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
