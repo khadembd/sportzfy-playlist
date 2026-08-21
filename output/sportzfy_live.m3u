@@ -1,6 +1,9 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-21T15:27:43.886896+06:00
+# Generated: 2026-08-21T16:21:51.229298+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: excluded
-# Total entries: 0
+# Total entries: 1
+
+#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187757.png" group-title="Cricket | England vs Pakistan",🔴 ✓ Server 1 | England vs Pakistan | SP
+https://china-sp.pages.dev/hilal-2008.json?&.m3u8
