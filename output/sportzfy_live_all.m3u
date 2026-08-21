@@ -1,15 +1,9 @@
 #EXTM3U
 # Sportzfy Auto-Updated Playlist
-# Generated: 2026-08-21T17:19:24.501584+06:00
+# Generated: 2026-08-21T18:26:33.647564+06:00
 # Mode: HLS-only (Televizo-friendly)
 # Filter: live | Unverified: included
-# Total entries: 3
+# Total entries: 1
 
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187757.png" group-title="Cricket | England vs Pakistan",🔴 ✓ Server 1 | England vs Pakistan | SP
-https://china-sp.pages.dev/hilal-2008.json?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://access-control-center-prod.freevision.live/ss/team/187757.png" group-title="Cricket | England vs Pakistan",🔴 ✗ Server 2 | England vs Pakistan | TAPMAD - BDIX
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",🔴 ✗ Server 1 | Formula 1 vs Formula 1 | TAPMAD - BDIX
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-2.png" group-title="Motorsports | Formula 1 vs Formula 1",🔴 ✗ Server 1 | Formula 1 vs Formula 1 | Tapmad
-https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
