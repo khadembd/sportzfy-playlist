@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T21:27:27.355778+06:00",
-  "last_updated_unix": 1792510047,
+  "last_updated": "2026-10-21T01:43:59.353160+06:00",
+  "last_updated_unix": 1792525439,
   "source": "https://live.sportzfy.life",
   "stats": {
     "total_events": 0,
@@ -11,6 +11,6 @@
     "verified_failed": 0
   },
   "verification_rate": "0%",
-  "run_duration_seconds": 2.8,
+  "run_duration_seconds": 4.2,
   "github_raw_base": "https://raw.githubusercontent.com/khadembd/sportzfy-playlist/main/output/"
 }
